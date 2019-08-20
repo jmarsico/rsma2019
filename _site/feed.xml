@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reactive Spaces and Media Architecture</title>
+    <description>Project-based course for exploring large scale dynamic media in the built environment.</description>
+    <link>http://localhost:4000/rsma2018/</link>
+    <atom:link href="http://localhost:4000/rsma2018/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 16 Jul 2018 09:09:57 -0400</pubDate>
+    <lastBuildDate>Mon, 16 Jul 2018 09:09:57 -0400</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Grading, Feedback and Policies</title>
+        <description>&lt;p class=&quot;message&quot;&gt;
+	tl;dr: Do interesting work and you'll be fine. Make sure it's submitted on time. Grading and feedback is focused on creative projects. There will be some opportunities for extra credit.
+&lt;/p&gt;
+
+&lt;p&gt;The course is focused on exploring distance learning by making interesting creative work. To get a good grade you’ll need to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Show up to class (on time)&lt;/li&gt;
+  &lt;li&gt;Regularly participate in conversations and crits&lt;/li&gt;
+  &lt;li&gt;Turn in your work on time for each module&lt;/li&gt;
+  &lt;li&gt;Support your classmates by giving them feedback on their work,&lt;/li&gt;
+  &lt;li&gt;Taking part in the course Slack by sharing content and helping out peers&lt;/li&gt;
+  &lt;li&gt;Provide thoughful contributions to discussions&lt;/li&gt;
+  &lt;li&gt;Offer well researched and interesting examples and cases&lt;/li&gt;
+  &lt;li&gt;Create interesting, well-crafted and well documented projects&lt;/li&gt;
+  &lt;li&gt;Be open to new perspectives and generally positive and engaged.&lt;/li&gt;
+  &lt;li&gt;Ask questions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The most important element: &lt;strong&gt;the work you do&lt;/strong&gt;. Make an effort, try new approaches, experiment technologies, and apply them in interesting and unexpected ways. They key to getting a stellar grade will mean &lt;em&gt;finding an exciting interactive strategy&lt;/em&gt;, for internet of things applications and scenarios.&lt;/p&gt;
+
+&lt;h2 id=&quot;grading&quot;&gt;Grading&lt;/h2&gt;
+
+&lt;p&gt;To facilitate grading all students are expected to prepare digital pages for their work (e.g. Gallery projects, Google Documents, Slack posts). All work must be submitted or presented by the deadline. Late work will not be accepted.&lt;/p&gt;
+
+&lt;p&gt;This course will largely assign a mix of independent and group work. For independent projects, all work submitted must represent a distinct product by that individual and may not be produced in partnership with any peer within the class. Group projects allow for collaboration but expect that all members contribute to the final work equally. Work submitted for assessment in one class may not be submitted in full or in part for assessment in a second class.&lt;/p&gt;
+
+&lt;h3 id=&quot;breakdown-of-grades&quot;&gt;Breakdown of grades&lt;/h3&gt;
+
+&lt;p&gt;Final grades for the course will be broken down as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;10% - &lt;a href=&quot;#participation&quot;&gt;Attendance &amp;amp; Participation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;10% - 5 x &lt;a href=&quot;/rsma2018/deliverables/discoveries/#grading&quot;&gt;Discoveries&lt;/a&gt; (2% per discovery)&lt;/li&gt;
+  &lt;li&gt;20% - &lt;a href=&quot;/rsma2018/deliverables/reading-reflections/#grading&quot;&gt;Readings, Summaries and Reflections&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;20% - Weekly &lt;a href=&quot;/rsma2018/deliverables/creative-projects/#grading&quot;&gt;Creative Projects&lt;/a&gt; (4 x 5%)&lt;/li&gt;
+  &lt;li&gt;40% - &lt;a href=&quot;/rsma2018/deliverables/final-project/#grading&quot;&gt;Final Project&lt;/a&gt; incl. &lt;a href=&quot;/rsma2018/deliverables/presentation-of-outcomes/#grading&quot;&gt;presentation and demonstration&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Note: this is subject to change. Follow the links to find out specific information on each graded component with the exception of participation which is discussed below.&lt;/p&gt;
+
+&lt;h2 id=&quot;participation&quot;&gt;Participation&lt;/h2&gt;
+
+&lt;p&gt;Participation grade will be based on three components; but generally it boils down to being a good citizen during the course: be engaged, ask questions, contribute your insights and support your peers.&lt;/p&gt;
+
+&lt;p&gt;a) &lt;em&gt;Attendance&lt;/em&gt; - being present in classes and maintain a strong record of attendance over the duration of the course;&lt;/p&gt;
+
+&lt;p&gt;b) &lt;em&gt;In-Class Engagement&lt;/em&gt; - being engaged in the classroom activities, actively and productively contributing to in-class discussions and project critiques; and&lt;/p&gt;
+
+&lt;p&gt;c) &lt;em&gt;Online Engagement&lt;/em&gt; - being an active and productive contributor to the classroom slack, supporting peers online, sharing knowledge with the class, etc.&lt;/p&gt;
+
+&lt;p&gt;An excellent grade will be earned for the following (on and offline) characteristics:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The student is always respectful of his or her self, others, and teacher, has a positive attitude, and does not criticize anyone else’s ideas or work.&lt;/li&gt;
+  &lt;li&gt;The student initiates contributions more than once in each session;&lt;/li&gt;
+  &lt;li&gt;The student’s comments are insightful &amp;amp; constructive; uses appropriate terminology. Comments balanced between general impressions, opinions &amp;amp; specific, thoughtful criticisms or contributions.&lt;/li&gt;
+  &lt;li&gt;The student listens attentively when others present materials, perspectives, as indicated by comments that build on others’ remarks, i.e., student hears what others say &amp;amp; contributes to the dialogue.&lt;/li&gt;
+  &lt;li&gt;The student routinely shares with, and supports the efforts of others.&lt;/li&gt;
+  &lt;li&gt;The student brings needed materials to class and is always ready to work.&lt;/li&gt;
+  &lt;li&gt;The student is awake and engaged in class on a daily basis, and shows no disruptive behavior.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;grading-standards--rubric&quot;&gt;Grading Standards / Rubric&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;A: Superlative or exemplary work, initiative beyond the description of the problem. Significant understanding of the problem. Conceptual clarity. An attitude of self-motivated exploration, open-mindedness, and a willingness to benefit from criticism.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;B: Very good, some exemplary work, a thorough understanding of the problem. Project displays conceptual foundation, well crafted. Competence and mastery of skills. Open, inquisitive attitude.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;C: Satisfactory or adequate work that meets the minimum requirements of the problem and course. Shows understanding of the problem, with some deficiencies. Reasonable mastery of skill and concepts. This grade is seen to represent the average solution.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;D: Passing, work that is complete, but does not show an understanding of the problem or expectations, and demonstrates deficient skills.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;R: Failing work that does not meet the requirements of the studio, shows a serious deficiency in skills or is incomplete.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;grading-scale&quot;&gt;Grading Scale&lt;/h2&gt;
+
+&lt;p&gt;The grading scale for the course is as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;A - 90 - 100%&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;B - 80 - 90%&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;C - 70 - 80%&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;D - 60 - 70%&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;R - &amp;lt; 60%&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;extra-credit&quot;&gt;Extra Credit&lt;/h2&gt;
+
+&lt;p&gt;Opportunities for extra credit will at one or more times throughout the semester. These will be discussed in class.&lt;/p&gt;
+
+&lt;h2 id=&quot;late-work&quot;&gt;Late work&lt;/h2&gt;
+
+&lt;p&gt;As the course is designed for in-class review and discussion of almost every assignment (readings, research, creative projects), &lt;strong&gt;late work is not accepted&lt;/strong&gt;. Without delivering your work on time, you will not get the benefit of in-class feedback, discussion and critique that it brings. More importantly, it can hold up the progress of the class as a whole.&lt;/p&gt;
+
+&lt;p&gt;The only exceptions will be in the case of medical or family emergencies or other pre-arranged university-approved absences.&lt;/p&gt;
+
+&lt;h2 id=&quot;grading-assignments-and-your-wellbeing&quot;&gt;Grading, Assignments and Your Wellbeing&lt;/h2&gt;
+
+&lt;p&gt;Besides all of the above, your health and wellbeing is first priority. Particularly as the semester comes to a close and there are many competing deadlines, assignments and priorities, first and foremost, &lt;strong&gt;take care of yourself&lt;/strong&gt;. Do your best to maintain a healthy lifestyle this semester by eating well, exercising, avoiding drugs and alcohol, getting enough sleep and taking some time to relax. This will help you achieve your goals and cope with stress.&lt;/p&gt;
+
+&lt;p&gt;All of us benefit from support during times of struggle. &lt;em&gt;You are not alone.&lt;/em&gt; There are many helpful resources available on campus and an important part of the college experience is learning how to ask for help. Asking for support sooner rather than later is often helpful.&lt;/p&gt;
+
+&lt;p&gt;If you or anyone you know experiences any academic stress, difficult life events, or feelings like anxiety or depression, we strongly encourage you to seek support. &lt;em&gt;Counseling and Psychological Services (CaPS) is here to help: call 412-268-2922 and visit their website at &lt;a href=&quot;http://www.cmu.edu/counseling/&quot;&gt;http://www.cmu.edu/counseling/&lt;/a&gt;&lt;/em&gt;. Consider reaching out to a friend, faculty or family member you trust for help getting connected to the support that can help.&lt;/p&gt;
+
+&lt;p&gt;If you have questions about this or your coursework, please let me know.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 Jul 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/rsma2018/2018/07/12/grading/</link>
+        <guid isPermaLink="true">http://localhost:4000/rsma2018/2018/07/12/grading/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Full Syllabus</title>
+        <description>&lt;p class=&quot;message&quot;&gt;
+	tl;dr: Reactive Spaces and Media Architecture, Spring 2018, Carnegie Mellon University
+&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Course Prefix &amp;amp; Number&lt;/td&gt;
+    &lt;td&gt;48-734 (9 units)&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Meeting times&lt;/td&gt;
+    &lt;td&gt;T/Th 10:30AM-12.30PM&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Locations&lt;/td&gt;
+    &lt;td&gt;III 103 (T) and HL A10 (Th)&lt;/td&gt;
+  &lt;/tr&gt;
+
+  &lt;tr&gt;
+    &lt;td&gt;Instructors&lt;/td&gt;
+    &lt;td&gt;
+		&lt;a href=&quot;mailto:jmarsico@gmail.com&quot;&gt;Jakob Marsico&lt;/a&gt; and &lt;a href=&quot;mailto:dph5087@gmail.com &quot;&gt;David Hoysan&lt;/a&gt;
+	&lt;/td&gt;
+  &lt;/tr&gt;
+
+  &lt;tr&gt;
+    &lt;td&gt;Teaching Assistant&lt;/td&gt;
+    &lt;td&gt;&lt;a href=&quot;mailto:TBD&quot;&gt;TBD&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Office Hours:&lt;/td&gt;
+    &lt;td&gt;
+		Marsico: Friday 10:00AM-11:30AM, Hunt A10 |
+		Hoysan: Wednesday 5:00PM - 6:30PM
+		&lt;br /&gt;
+		TA: TBC&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Lab Content:&lt;/td&gt;
+    &lt;td&gt;
+		&lt;a href=&quot;http://jmarsico.github.io/rsmalabs/&quot;&gt;RSMA Lab Site&lt;/a&gt;
+	&lt;/td&gt;
+  &lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;h2 id=&quot;course-description&quot;&gt;Course Description&lt;/h2&gt;
+
+&lt;p&gt;Thermostats, locks, power sockets, and lights are all being imbued with ‘smarts’ making them increasingly aware and responsive to their environment and users. This course will chart the emergence of the now ‘connected world’ to explore the possibilities for future products and connected spaces with the Internet of Things.This introductory, hands-on course invites students to creating connected products without any knowledge of programming, electronics or systems. Students will be introduced to interactive connected technologies through a series of hands on exercises, collaborative projects, in-depth discussions, and instructor led tutorials. Topics explored will include awareness, real-time sensing and communication, embedded intelligence, and designing experiences for the internet of things.  By the end of this course, students will be familiar with the core skills, the considerations involved and design process required to build a connected system. Students will also apply this learning in collaborative groups to realize a prototype connected device.&lt;/p&gt;
+
+&lt;h2 id=&quot;learning-objectives&quot;&gt;Learning Objectives&lt;/h2&gt;
+
+&lt;p&gt;Upon completion of this course a student should:&lt;/p&gt;
+
+&lt;h4 id=&quot;a-domain-knowledge&quot;&gt;&lt;em&gt;A. Domain Knowledge&lt;/em&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Be able to describe of the history and domain of physical computing and connected products&lt;/li&gt;
+  &lt;li&gt;Be able to critically reflect on the role of connected products in everyday settings&lt;/li&gt;
+  &lt;li&gt;Be able to articulate the future possibilities and potential directions for the field&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;b-practical-skills&quot;&gt;&lt;em&gt;B. Practical Skills&lt;/em&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Have applied experience of the key concepts (electricity, components, circuitry) underlying physical computing&lt;/li&gt;
+  &lt;li&gt;Be able to independently construct electronic circuits&lt;/li&gt;
+  &lt;li&gt;Be able to use standard hardware and software tools for physical computing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;c-prototyping&quot;&gt;&lt;em&gt;C. Prototyping&lt;/em&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Be able to generate systems specifications from a perceived need&lt;/li&gt;
+  &lt;li&gt;Be able to design and make interactive objects that integrate sensing, actuation and software&lt;/li&gt;
+  &lt;li&gt;Realize one collaborative prototype independently prepared with their peers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;d-collaboration&quot;&gt;&lt;em&gt;D. Collaboration&lt;/em&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Be able to work in a mixed physical digital environment and laboratory&lt;/li&gt;
+  &lt;li&gt;Be able to integrate considerations across business, design and engineering to prepare connected products&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;prerequisites&quot;&gt;Prerequisites&lt;/h2&gt;
+
+&lt;p&gt;There are no prerequisites for this course. The course will teach all core skills required, however, prior experience with programming interactive systems is highly desired and recommended.&lt;/p&gt;
+
+&lt;h2 id=&quot;instructional-methods&quot;&gt;Instructional Methods&lt;/h2&gt;
+
+&lt;p&gt;Classes will involve lectures, labs, hands-on tutorials, discussions, critique sessions and workshops. Students will participate in and lead class discussion/presentations.&lt;/p&gt;
+
+&lt;h2 id=&quot;course-structure&quot;&gt;Course Structure&lt;/h2&gt;
+
+&lt;p&gt;The course will meet each Tuesday and Thursday, 8:30-10:20pm.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;On Tuesday, the course will meet in the Integrated Innovation Institute main classroom (INT 103)&lt;/li&gt;
+  &lt;li&gt;On Thursday will meet in the IDeATe Physical Computing Studio HL A10 (Hunt Basement).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This 7-week course will iteratively introduce students to connected products, as follows. The first 5-weeks will offer a bootcamp on considering and developing for the internet of things. The final 2 weeks will offer an opportunity for students to apply this learning in a collaborative group project.&lt;/p&gt;
+
+&lt;h4 id=&quot;bootcamp-5-weeks&quot;&gt;Bootcamp (5 weeks).&lt;/h4&gt;
+&lt;p&gt;Each week will offer:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;Concepts&lt;/em&gt;: an introduction to concepts and considerations surrounding the Internet of things through readings, lectures, and in-class discussion&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;Skills&lt;/em&gt;: &lt;a href=&quot;http://jmarsico.github.io/rsmalabs/&quot;&gt;self-paced labs&lt;/a&gt; will develop students skills in preparing connected products and cover hardware, software, electronics and other lab skills.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;Applied Critique:&lt;/em&gt; Concepts and Skills will be applied in short and focused weekly projects which will then be critically examined through group critique.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Students will complete a weekly creative exercise to develop conceptual understanding, refine and acquire skills and receive feedback on their ideas. Students will also be expected to complete an annotated bibliography of the readings assigned during the semester to demonstrate their review and understanding.&lt;/p&gt;
+
+&lt;h4 id=&quot;collaborative-project-2-weeks&quot;&gt;Collaborative Project (2 weeks)&lt;/h4&gt;
+
+&lt;p&gt;For the final two weeks, small teams will work together to identify a prospective idea for a connected product of the future, prepare a working prototype and deliver supporting process and outcome documentation.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;For the outcome Students will prepare:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;working demonstration of their idea (a prototype)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;a functional specification (engineering) including circuit diagrams, etc.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;a design from low-fidelity sketches to high-fidelity prototype&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;a high-level strategic documents outlining the costs involved, expected retail price, and draft promotional material.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;grading&quot;&gt;Grading&lt;/h2&gt;
+
+&lt;p&gt;To facilitate marking all students are expected to prepare project pages on the IDeATe Gallery which document the assigned projects and where regular assignments are posted (see &lt;a href=&quot;http://ideate.xsead.cmu.edu&quot;&gt;http://ideate.xsead.cmu.edu&lt;/a&gt;) All work must be submitted or presented by the deadline. &lt;strong&gt;Late work will not be accepted.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This course will assign a mixture of independent and group based projects. For independent projects, all work submitted must represent a distinct product by that individual and may not be produced in partnership with any peer within the class. Group projects allow for collaboration but expect that all members contribute to the final work equally. Work submitted for assessment in one class may not be submitted in full or in part for assessment in a second class.&lt;/p&gt;
+
+&lt;p&gt;For more information, on grading, and for details on grading policies, please consult the &lt;a href=&quot;/rsma2018/2017/01/02/grading/&quot;&gt;Grading, Feedback and Policies&lt;/a&gt; page.&lt;/p&gt;
+
+&lt;h2 id=&quot;process-documentation&quot;&gt;Process Documentation&lt;/h2&gt;
+
+&lt;p&gt;Students are expected to maintain good documentation of their work process throughout the course. It is recommended that all students should maintain a journal (notebook, blog, etc) and regularly photograph (or video) their creative work as it is being prepared. Students will be asked to share this documentation with the instructor as part of regular assignments and graded outcomes.&lt;/p&gt;
+
+&lt;h2 id=&quot;hardware-and-software&quot;&gt;Hardware and Software&lt;/h2&gt;
+
+&lt;p&gt;We will cover a diverse array of software and hardware relevant to the Internet of Things. While preferred hardware and software will be introduced during the labs and tutorials, students are free to use any software or hardware they wish to complete assignments.  Students may use Eagle, Fritzing, Rhino, Grasshopper, Solidworks, Arduino, Python (for rPi), Processing, Pure Data, openframeworks + ofxiOS, iOS SDK, etc..&lt;/p&gt;
+
+&lt;h2 id=&quot;required-texts&quot;&gt;Required Texts&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;There are no required texts for this class.&lt;/strong&gt; Regular readings will be assigned on the topic. Digital and photocopied reading/viewing material will be provided by the instructor and available on the course webpage. For students new to programming or electronics, the following book is strongly recommended: &lt;a href=&quot;http://www.amazon.com/Getting-Started-Arduino-Make-Projects/dp/B008SMKPW0&quot;&gt;Massimo Banzi (2008) Getting Started with Arduino&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;facilities-and-lab-use&quot;&gt;Facilities and Lab Use&lt;/h2&gt;
+
+&lt;p&gt;The course will use the IDeATe Physical Computing Studio in Hunt Library. Students are required to comply with the policies and procedures for the IDeaTe facilities (see: &lt;a href=&quot;http://ideate.andrew.cmu.edu/category/policy-proc/&quot;&gt;http://ideate.andrew.cmu.edu/category/policy-&lt;/a&gt;&lt;a href=&quot;http://ideate.andrew.cmu.edu/category/policy-proc/&quot;&gt;proc/&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;The studio is a shared space used by your colleagues and by other classes. The maintenance of the studio is the responsibility of the students i.e. students should clean up the studio as they use it and leave it in good working condition for others.&lt;/p&gt;
+
+&lt;p&gt;The studio provides some short term lending of parts and consumable electronic components for use in student projects. These are available for reasonable use only and should not be abused.&lt;/p&gt;
+
+&lt;p&gt;For some of the assignments, students maybe be required to use specific equipment, hardware or software. All required equipment (hardware, components, etc.) will be made available for these assignments (see below). Additional and advanced hardware and components may be accessed in the Physical Computing Studio and in the IDeATe equipment lending pool which is open 7 days a week in the basement of Hunt Library. Required hardware (laptops, cameras, peripherals) may be checked out on request. If particular equipment is needed but is not available in the Studio or the Equipment Lending Library, let the instructor know.&lt;/p&gt;
+
+&lt;h2 id=&quot;lab-fee&quot;&gt;Lab Fee&lt;/h2&gt;
+
+&lt;p&gt;A lab fee of $105 will be charged to each student. This will provide each student with a Internet of Things development toolkit. This will be retained by the student on completion of the course as a resource for future projects.&lt;/p&gt;
+
+&lt;h2 id=&quot;data-loss&quot;&gt;Data Loss&lt;/h2&gt;
+
+&lt;p&gt;Students are responsible for their own work. Work lost to due computer error, portable media error, or personal error is the responsibility of the student and will not be an excuse for late or missing work. At the end of the semester all students may be required to submit all work incl. source code, process documentation, etc.. Do not discard original files of any assignment and the use of github or other source management solutions is recommended.&lt;/p&gt;
+
+&lt;h2 id=&quot;attendance&quot;&gt;Attendance&lt;/h2&gt;
+
+&lt;p&gt;Students are expected to attend all classes. During class times, students are expected to give their full attention to the class materials, discussions and seminars. Students found to be consulting non-class related material, using their mobile phone or engaged in social networking will be immediately deemed absent.&lt;/p&gt;
+
+&lt;p&gt;If you need to miss a class for any reason, inform the instructor before the class if possible, and/or after the missed class. More than one unexcused absence will adversely affect your effort grade (see section on grading). In no case can a student expect to receive a passing grade without regular attendance and participation in class.&lt;/p&gt;
+
+&lt;h2 id=&quot;absences&quot;&gt;Absences&lt;/h2&gt;
+
+&lt;p&gt;Students must notify faculty in advance of planned absence for religious holiday or school-related event (i.e. varsity sports trip). If you have an unplanned absence for medical or personal reasons, let the faculty know of your situation as soon as possible. In case of an extended absence for medical or personal reasons, contact the Senior Academic Advisor by mail, e-mail or phone, who will notify the appropriate faculty. Faculty reserve the right to request a formal document verifying a medical excuse.&lt;/p&gt;
+
+&lt;h2 id=&quot;academic-integrity&quot;&gt;Academic Integrity&lt;/h2&gt;
+
+&lt;p&gt;Academic Integrity is expected at all time. Carnegie Mellon has a established as well-defined policy on this subject which can be found at: &lt;a href=&quot;http://www.cmu.edu/policies/documents/Academic%20Integrity.htm&quot;&gt;http://www.cmu.edu/policies/documents/Academic%20Integrity.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It is the responsibility of the student to verse themselves with these policies. All necessary and appropriate sanctions will be issued to all parties involved with plagiarizing any and all course work. Plagiarism and any other form of academic dishonesty that is in violation with these policies will not be tolerated.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 Jul 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/rsma2018/2018/07/12/full-syllabus/</link>
+        <guid isPermaLink="true">http://localhost:4000/rsma2018/2018/07/12/full-syllabus/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Absenses and Attendance.</title>
+        <description>&lt;p class=&quot;message&quot;&gt;
+	tl;dr: It's a course that relies on peer-learning. That means you being in class is really important. Being absent will effect your grade. 
+&lt;/p&gt;
+
+&lt;p&gt;The structure of this course makes it critical for you to be in attendance. The way we’ll learn is through sharing of perspectives in discussions, through case studies and (guest) lectures, through in class exercises, and through discussion/critique of the work we make. This means it’s beyond important for you to be in class and on time.&lt;/p&gt;
+
+&lt;h2 id=&quot;attendance&quot;&gt;Attendance&lt;/h2&gt;
+
+&lt;p&gt;Plain and simple, you should be in every class. You shouldn’t expect to receive a passing grade without regular attendance. More than three &lt;em&gt;unexcused&lt;/em&gt; absenses means you will fail the course unless appropriate documentation is provided.&lt;/p&gt;
+
+&lt;p&gt;There’s a difference between &lt;em&gt;excused&lt;/em&gt; and &lt;em&gt;unexcused&lt;/em&gt; absenses. In most cases where you give some prompt or early notice, it’s considered an excused absense.&lt;/p&gt;
+
+&lt;p&gt;If there’s an unplanned issue or you’re sick, let us know. Contact the instructor and the TA ideally  before class if it’s possible and if not within 24 hours.  If you have a planned, professional absense or will be attending a or school-related event (i.e. varsity sports trip), let us know as early as possible. Generally speaking, we’ll be very understanding and accomodating when you let us know ahead of time.&lt;/p&gt;
+
+&lt;p&gt;In all cases where you’ve missed a class, you’re responsible for understanding the course content and future deliverables. Make sure you meet with a classmate to find out what material you missed or ask for help on the course Slack.&lt;/p&gt;
+
+&lt;h2 id=&quot;lateness&quot;&gt;Lateness&lt;/h2&gt;
+
+&lt;p&gt;Attendance is taken for all classes. &lt;em&gt;Note:&lt;/em&gt; It’s your responsibilty to make sure you have signed in.&lt;/p&gt;
+
+&lt;p&gt;Remember that any lateness affects the whole class. It is disruptive to those presenting during a crit or those watching a screening; and it is particularly disrespectful to show up late to a guest talk. Being on time allows class to start promptly and for us to focus on your work. Be a responsible and good member of the learning community.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Lateness&lt;/em&gt; (more than 5 minutes) will negatively effect participation grade by 1%. &lt;br /&gt;
+&lt;em&gt;Extreme lateness&lt;/em&gt; (more than 15 minutes) will count as a 1/3rd partial absense.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;attention&quot;&gt;Attention&lt;/h2&gt;
+
+&lt;p&gt;When you’re in class, pay attention. Don’t be on your phone, texting, tweeting, emailing, etc. If you have your laptop out, it should be for taking notes or class related activities. For everything else, please close the laptop and silence your phone. It can wait. If noted, it will also reduce your participation grade by 1%.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This is especially egregious during crits and discussions.&lt;/strong&gt; If noted, it will reduce your participation grade by 2%.&lt;/p&gt;
+
+&lt;p&gt;And if you’re asleep, you might as well not be in class. This counts as a partial absense (see above).&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 12 Jul 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/rsma2018/2018/07/12/attendance/</link>
+        <guid isPermaLink="true">http://localhost:4000/rsma2018/2018/07/12/attendance/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Course Fees</title>
+        <description>&lt;p class=&quot;message&quot;&gt;
+	tl;dr: A lab fee of $120 will be charged for this course. This will provide each student with a Internet of Things development toolkit.
+&lt;/p&gt;
+
+&lt;p&gt;A lab fee of $120 will be charged to each student. This will provide each student with a Internet of Things development toolkit. This will be retained by the student on completion of the course as a resource for future projects.&lt;/p&gt;
+
+&lt;p&gt;Course Fees are charged to students participating in this course. These are determined by resource access (i.e. spaces &amp;amp; equipment), consumables (i.e. materials), and any other course related fees (i.e. Field Trips). This one time fee should cover most course related costs.&lt;/p&gt;
+
+&lt;p&gt;In addition to the toolkit provided to each students, the fee will be used to cover the purchase of project-specific hardware (components, consumables, etc.). This will be made available to each student for each project. These will be a shared resource and on the completion of those projects, students must return project-specific hardware for use in future projects in and beyond the duration of the course. Students may wish to use advanced or other hardware for their projects. Where possible, accommodations to purchase hardware will be made, but students should be aware they may be responsible for the cost of other hardware or consumables beyond those directly.&lt;/p&gt;
+
+&lt;p&gt;The course fee will be posted to your student account before the end of the semester.&lt;/p&gt;
+
+&lt;p&gt;What the Course Fee also covers:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Access to the following facility resources: Physical Computing Lab (A10)&lt;/li&gt;
+  &lt;li&gt;You will gain Access to IDeATe Lending (A29); providing you with immediate availability of various materials, tools, electronics, peripherals, equipment, and mobile computing platforms- related to your specific workflows.&lt;/li&gt;
+  &lt;li&gt;You will receive a Particle IoT development kit which contains all of the basic hardware for your projects. You will retain this at the end of the course.&lt;/li&gt;
+  &lt;li&gt;You will receive access to advanced hardware, tools, materials and consumables that are made available for specific projects.&lt;/li&gt;
+  &lt;li&gt;You will be given a small allocation for your collaborative team to purchase equipment for your final projects.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Thu, 07 Jan 2016 07:53:25 -0500</pubDate>
+        <link>http://localhost:4000/rsma2018/course/structure/2016/01/07/resource-fee/</link>
+        <guid isPermaLink="true">http://localhost:4000/rsma2018/course/structure/2016/01/07/resource-fee/</guid>
+        
+        
+        <category>course</category>
+        
+        <category>structure</category>
+        
+      </item>
+    
+  </channel>
+</rss>

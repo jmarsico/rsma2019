@@ -1,0 +1,42 @@
+# Site settings
+gems: [jekyll-paginate]
+
+# Dependencies
+markdown: kramdown
+highlighter: rouge
+redcarpet:
+  extensions: ["strikethrough"]
+
+kramdown:
+  input: GFM
+
+# Permalinks
+permalink: pretty
+relative_permalinks: false
+
+# Setup
+title: Reactive Spaces and Media Architecture
+tagline: "CMU - Fall 2018"
+description: "Project-based course for exploring large scale dynamic media in the built environment."
+--url: "http://jmarsico.github.io/rsma2018"
+--baseurl: "http://jmarsico.github.io/rsma2018"
+baseurl: "/rsma2018"
+
+author:
+  name: "Jakob Marsico"
+  url: http://jmarsico.github.io/rsma2018/
+
+email: jmarsico@gmail.com
+twitter_username: n/a
+github_username: jmarsico
+slack: http://rsma2018.slack.com
+gallery: http://ideate.xsead.cmu.edu
+facilities: https://resources.ideate.cmu.edu/
+
+paginate: 5
+
+# Custom vars
+version: 1.0.5
+
+github:
+  repo: https://github.com/jmarsico/rsma2018

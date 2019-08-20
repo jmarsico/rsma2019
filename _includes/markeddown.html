@@ -1,0 +1,2 @@
+{% capture my_include %}{% include_relative {{include.src}} %}{% endcapture %}
+{{ my_include | markdownify }}

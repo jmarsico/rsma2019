@@ -1,0 +1,37 @@
+[
+    {
+        "room": "wean",
+        "kw/h": 10.5,
+        "temperature": 68.5,
+        "outsideTemp" : 32.0,
+        "percentAvg": 150
+    },
+    {
+        "room": "gates",
+        "kw/h": 10.5,
+        "temperature": 68.5,
+        "outsideTemp" : 32.0,
+        "percentAvg": 150
+    },
+    {
+        "room": "doherty",
+        "kw/h": 10.5,
+        "temperature": 68.5,
+        "outsideTemp" : 32.0,
+        "percentAvg": 150
+    },
+    {
+        "room": "hunt",
+        "kw/h": 10.5,
+        "temperature": 68.5,
+        "outsideTemp" : 32.0,
+        "percentAvg": 150
+    },
+    {
+        "room": "porter",
+        "kw/h": 10.5,
+        "temperature": 68.5,
+        "outsideTemp" : 32.0,
+        "percentAvg": 150
+    }
+]

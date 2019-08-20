@@ -1,0 +1,36 @@
+#toc, .toc {
+
+	margin-bottom: 2em;
+	font-size: 0.75em;
+	margin-bottom: 40px;
+	background: rgba(200,200,200,0.25);
+	border: 1px solid rgba(200,200,200,0.15);
+	padding: 10px 10px 2px 10px;
+	border-radius: 10px;
+	 
+}
+
+#toc i, .toc i{
+	font-weight: normal;
+	font-style: normal;
+	color: #999;
+	margin-left: 10px;
+}
+
+#toc ul, .toc ul, #toc ol, .toc ol {
+    list-style-image: none;
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+    text-align: left;
+	margin-left: 10px !important;
+}
+#toc ul ul, .toc ul ul, #toc ol ol, .toc ol ol {
+    margin: 0 0 0 0em;
+}
+
+#toc ul li, #toc ol li {
+    list-style-type: none;
+    padding-left: 0;
+    padding-left: 0;
+}

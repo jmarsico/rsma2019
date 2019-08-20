@@ -1,0 +1,212 @@
+
+/* ---- isotope ---- */
+
+.grid {
+  border: 1px solid #333;
+}
+
+/* clear fix */
+.grid:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+.isotope-filters{
+	background: #efefef;
+    border: solid 1px rgba(0, 0, 0, 0.15);
+    -moz-transition: box-shadow 0.75s;
+    -webkit-transition: box-shadow 0.75s;
+    -o-transition: box-shadow 0.75ms;
+    transition: box-shadow 0.75s;
+	padding: 10px;
+	margin-bottom: 20px;
+	
+}
+.isotope-filters div#filters{
+	border-bottom: solid 1px rgba(0, 0, 0, 0.15);
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+
+.isotope-filters h2{
+	display: inline-block;
+	font-weight: bold;
+	font-size: 12pt;
+	margin: 0;
+	color: #343430;
+	line-height: 1.25;	
+  	padding: 10px 10px 5px 10px; 
+}
+
+.isotope-button-group{
+	display: inline-block;	
+}
+
+/* ---- button ---- */
+
+.isotope-filters .button {
+  display: inline-block;
+  padding: 0.25em 0.5em;
+  background: #EEE;
+  border: none;
+  border-radius: 7px;
+  color: #222;
+  font-family: sans-serif;
+  font-size: 10pt;
+  cursor: pointer;
+  
+}
+
+.isotope-filters .button span{
+	border-radius: 1000px;
+	border: 1px solid rgba( 0,0,0,0.2);
+	background: rgba( 0,0,0,0.5);
+	color: #FFF;
+	padding: 1px 4px 0px;
+	font-size: 8pt;
+}
+
+.isotope-filters .button:hover {
+  background-color: #8CF;
+  color: #222;
+}
+
+.isotope-filters .button:active,
+.isotope-filters .button.is-checked {
+  background-color: #28F;
+}
+
+.isotope-filters .button.is-checked {
+  color: white;
+}
+
+.isotope-filters .button:active {
+    background-color: #999;
+    color: #111;
+}
+
+
+
+/* ---- .element-item ---- */
+
+.isotope-element-item {
+  position: relative;
+  float: left;
+  width: 200px;
+  height: 300px;
+  margin: 5px;
+  padding: 0px;
+  background: #;
+  overflow: hidden;
+  
+  color: #343430;
+  border: solid 1px rgba(0, 0, 0, 0.15);
+  -moz-transition: box-shadow 0.75s;
+  -webkit-transition: box-shadow 0.75s;
+  -o-transition: box-shadow 0.75ms;
+  transition: box-shadow 0.75s;
+  background: #fff;
+  
+}
+
+.isotope-element-item > * {
+  margin: 0;
+  padding: 0;
+}
+
+.isotope-element-item .cover-img{
+	background-color: #dedede;
+	display: block;
+	min-height: 125px;
+	width: 100%
+}
+
+.isotope-element-item .image{
+	width: 100%;
+	min-height: 125px;
+	background-color: #eee;
+	
+	background-size: no-repeat;
+	background-position: center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover
+}
+
+
+.isotope-element-item .title {
+	font-weight: bold;
+	font-size: 12pt;
+	margin: 0;
+	color: #343430;
+	line-height: 1.25;	
+  	padding: 10px 10px 5px 10px; 
+}
+
+.isotope-element-item .title a {
+	color: #343430;
+}
+
+
+.isotope-element-item .timestamp {
+	display: none;
+}
+
+.isotope-element-item .username {
+	font-weight: normal;
+	font-size: 10pt;
+	margin: 0;
+  	padding: 3px 10px; 
+	line-height: 1.25;
+	color: #343430;
+	padding-top: 3px
+	
+}
+
+.isotope-element-item .username a{
+	color: #787878;
+	text-decoration: underline
+}
+
+.isotope-element-item .username a:hover{
+	color: #333;
+}
+
+
+.isotope-element-item .description {
+	font-weight: normal;
+	font-size: 10pt;
+	margin: 0;
+  	padding: 3px 10px; 
+	line-height: 1.25;
+	color: #999 !important;
+	padding-top: 3px
+	
+}
+
+
+.isotope-element-item .number {
+  position: absolute;
+  right: 8px;
+  top: 5px;
+}
+
+.isotope-element-item .weight {
+  position: absolute;
+  left: 10px;
+  top: 76px;
+  font-size: 12px;
+}
+
+.isotope-element-item.alkali          { background: #F00; background: hsl(   0, 100%, 50%); }
+.isotope-element-item.alkaline-earth  { background: #F80; background: hsl(  36, 100%, 50%); }
+.isotope-element-item.lanthanoid      { background: #FF0; background: hsl(  72, 100%, 50%); }
+.isotope-element-item.actinoid        { background: #0F0; background: hsl( 108, 100%, 50%); }
+.isotope-element-item.transition      { background: #0F8; background: hsl( 144, 100%, 50%); }
+.isotope-element-item.post-transition { background: #0FF; background: hsl( 180, 100%, 50%); }
+.isotope-element-item.metalloid       { background: #08F; background: hsl( 216, 100%, 50%); }
+.isotope-element-item.diatomic        { background: #00F; background: hsl( 252, 100%, 50%); }
+.isotope-element-item.halogen         { background: #F0F; background: hsl( 288, 100%, 50%); }
+.isotope-element-item.noble-gas       { background: #F08; background: hsl( 324, 100%, 50%); }

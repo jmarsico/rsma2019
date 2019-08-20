@@ -1,0 +1,30 @@
+
+
+Hi everyone,
+
+Happy New Year! Hope you all had a restful break.  Ahead of kicking of Reactive Spaces and Media Architecture next week, I wanted to introduce some course content and prepare aheads for next week:
+
+The course site (and syllabus) can be found at: http://jmarsico.github.io/diot2018. You’ll also find this cross-listed on Canvas.
+
+Before the first class, please:
+- Take a look at the logistics section (scroll down the front page).
+- Complete the skills survey (so we can match groups based on complimentary skills) - https://goo.gl/forms/zt8SrGrV1lpzPqh63
+- Create an account on the course Slack (https://diot2018u.slack.com) Sign up via this link https://join.slack.com/t/diot2018/shared_invite/enQtMjk2NDk3NDAzNzc4LWEwOWFkNzM3MjAwMzZhMGEyYjJhM2Q2MTZjZTFjZWEzYzg5NmIwNTU2OTMyYTE3YzkzODdjMTE2M2Q0NzNlNDA using your Andrew email address. Install one of the Slack clients (for smartphone or desktop) and enable notifications.
+- Setup an account on the Gallery (we’ll use this for all projects you complete): http://integratedinnovation.xsead.cmu.edu/gallery/
+
+Our Location:
+
+- Hunt Library’s Physical Computing Lab (A10 - downstairs in the basement)
+
+On our first Thursday class, you’ll receive your IoT kit and we’ll begin making circuits.
+The TA for the course is Roberto Andaya (@randaya on slack) and we’ll both have weekly office hours and be able to field any questions you have on slack too.
+
+Please also keep Sunday 21st free for the 1-day workshop (lunch provided) in III (indicate if you’ll attend on the survey linked above). More details can be found in the survey too.
+
+Looking forward to a busy but fun 7-weeks. See you next week!
+
+David and Jakob
+(on Slack: @dhoysan @jmarsico )
+
+P.S. If you've any questions just let us know - on Slack!
+P.P.S. For anyone with a MacBook or MacBook Pro that only has USB-C connectors, this is for you! The Particle microcontroller we’ll use in the course uses "old USB". If you want to connect it to your laptop, you’ll need an adapter. If you don’t already have an apple dongle, I’d recommend picking up an adapter like this one: https://www.amazon.com/nonda-Adapter-Aluminum-Indicator-Macbook/dp/B015Z7XE0A

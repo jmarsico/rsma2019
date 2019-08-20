@@ -1,0 +1,70 @@
+---
+layout: default
+---
+
+
+
+<div class="page">
+	
+    {% include breadcrumbs.html %} 
+	
+  <h1 class="page-title">{{ page.title }}</h1>
+  {{ content }}
+</div>
+
+<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+
+<script src="{{ site.baseurl }}/public/js/isotope.min.js"></script>
+
+<script>
+
+
+	// init Isotope
+	var $grid = $('.isotope-grid').isotope({
+	  itemSelector: '.isotope-element-item',
+	  layoutMode: 'fitRows',
+	  getSortData: {
+	    title: '.title',
+		timestamp: '.timestamp parseInt',
+	    category: '[data-category]'
+	  }
+	});
+
+	// filter functions
+	var filterFns = {
+	  // show if number is greater than 50
+	  numberGreaterThan50: function() {
+	    var number = $(this).find('.timestamp').text();
+	    return parseInt( number, 10 ) > 50;
+	  },
+	  // show if name ends with -ium
+	  ium: function() {
+	    var name = $(this).find('.title').text();
+	    return name.match( /ium$/ );
+	  }
+	};
+
+	// bind filter button click
+	$('#filters').on( 'click', 'button', function() {
+	  var filterValue = $( this ).attr('data-filter');
+	  // use filterFn if matches value
+	  filterValue = filterFns[ filterValue ] || filterValue;
+	  $grid.isotope({ filter: filterValue });
+	});
+
+	// bind sort button click
+	$('#sorts').on( 'click', 'button', function() {
+	  var sortByValue = $(this).attr('data-sort-by');
+	  $grid.isotope({ sortBy: sortByValue });
+	});
+
+	// change is-checked class on buttons
+	$('.isotope-button-group').each( function( i, buttonGroup ) {
+	  var $buttonGroup = $( buttonGroup );
+	  $buttonGroup.on( 'click', 'button', function() {
+	    $buttonGroup.find('.is-checked').removeClass('is-checked');
+	    $( this ).addClass('is-checked');
+	  });
+	});
+
+</script>
