@@ -5,9 +5,9 @@ title: "Creative Assignment 1: Home Hack"
 
 #### Due: Tuesday February 6, 6:30pm before class. No late work.
 
-#### Submit to: [DioT 2018: Home Hack](http://ideate.xsead.cmu.edu/gallery/pools/creative-project-1-home-hack)
+#### Submit to: [DioT 2019: Home Hack](http://ideate.xsead.cmu.edu/gallery/pools/creative-project-1-home-hack)
 
-Note: There is a [discovery](#planning-your-project-ie-discovery) attached to this project. This is due on __Thursday Jan 25, 2018 6:30pm; directly before class.__
+Note: There is a [discovery](#planning-your-project-ie-discovery) attached to this project. This is due on __Thursday Jan 25, 2019 6:30pm; directly before class.__
 
 ---
 
@@ -73,7 +73,7 @@ To help you get started, here’s some things you could try out as potential hac
 
 ## Planning your project (i.e. [discovery]({{site.baseurl}}/deliverables/discoveries))
 
-Due: __Thursday, 25th 2018; directly before class.__
+Due: __Thursday, 25th 2019; directly before class.__
 
 The first phase of your project is planning. This is a quick assignment designed to help you gather the resources and assets you'll need to complete it.
 

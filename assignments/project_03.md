@@ -7,7 +7,7 @@ title: "Project 3: Campus Power Usage"
 
 #### Due: Monday October 29, 6:30pm before class. No late work.
 
-#### Submit to: Groups submit one post to [RSMA 2018: Project 03](http://ideate.xsead.cmu.edu/gallery/pools/project-03-data-visualization/) and each student submits a link to that post on [Canvas Project 03](https://canvas.cmu.edu/courses/6049/assignments/100774), along with a few sentences describing their role and contributions in the group project.
+#### Submit to: Groups submit one post to [RSMA 2019: Project 03](http://ideate.xsead.cmu.edu/gallery/pools/project-03-data-visualization/) and each student submits a link to that post on [Canvas Project 03](https://canvas.cmu.edu/courses/6049/assignments/100774), along with a few sentences describing their role and contributions in the group project.
 
 
 # Introduction

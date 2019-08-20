@@ -1,11 +1,11 @@
 ---
 layout: page
-date: 2018-08-20
+date: 2019-08-20
 title: Syllabus
 ---
 
 <p class="message">
-	tl;dr: Reactive Spaces and Media Architecture, Spring 2018, Carnegie Mellon University
+	tl;dr: Reactive Spaces and Media Architecture, Spring 2019, Carnegie Mellon University
 </p>
 
 <table>

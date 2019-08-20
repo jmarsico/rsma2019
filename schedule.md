@@ -4,7 +4,7 @@ title: Schedule
 ---
 
 | Week (Beginning) | Summary                                                            | Assignments                                                                |
-| :--------------- | :----------------------------------------------------------------- | :------------------------------------------------------------------------- |
+|:-----------------|:-------------------------------------------------------------------|:---------------------------------------------------------------------------|
 | 1 (Aug 27)       | __[Introduction to Media Architecture and TouchDesigner](#week1)__ | [Project 0: Experiential Bridge]({{site.baseurl}}/assignments/project_00/) |
 | 2 (Sep 3)        | __[Introduction to Media Architecture and TouchDesigner](#week2)__ | [Project 0: Experiential Bridge]({{site.baseurl}}/assignments/project_00/) |
 | 3 (Sep 10)       | __[Private Nature - Domestic Space](#week3)__                      | [Project 1 - Data Garden]({{site.baseurl}}/assignments/project_01/)        |
@@ -15,12 +15,12 @@ title: Schedule
 | 8 (Oct 15)       | __[Low Resolution Data Visualization](#week8)__                    | [Project 3 - Power Usage]({{site.baseurl}}/assignments/project_03/)        |
 | 9 (Oct 22)       | __[Meditative and Sacred Spaces](#week9)__                         | [Project 4 - Meditative Space]({{site.baseurl}}/assignments/project_04/)   |
 | 10 (Oct 29)      | __[Meditative and Sacred Spaces](#week10)__                        | [Project 4 - Meditative Space]({{site.baseurl}}/assignments/project_04/)   |
-| 11 (Nov 5)       | __[Final Project](#week11)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)                                                        |
-| 12 (Nov 12)      | __[Final Project](#week12)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)                                                        |
-| 13 (Nov 19)      | __[Final Project](#week13)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)                                                        |
-| 14 (Nov 26)      | __[Final Project](#week14)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)                                                        |
-| 15 (Dec 3)       | __[Final Project](#week15)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)                                                        |
-| 16 (Dec 10)      | __[Final Project](#week16)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)                                                        |
+| 11 (Nov 5)       | __[Final Project](#week11)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)               |
+| 12 (Nov 12)      | __[Final Project](#week12)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)               |
+| 13 (Nov 19)      | __[Final Project](#week13)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)               |
+| 14 (Nov 26)      | __[Final Project](#week14)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)               |
+| 15 (Dec 3)       | __[Final Project](#week15)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)               |
+| 16 (Dec 10)      | __[Final Project](#week16)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)               |
 
 
 
@@ -31,7 +31,7 @@ title: Schedule
 ### Week 1: Introduction to Media Architecture
 
 | Monday Aug 27                                                              | Wednesday Aug 29                                                                |
-| :------------------------------------------------------------------------- | :------------------------------------------------------------------------------ |
+|:---------------------------------------------------------------------------|:--------------------------------------------------------------------------------|
 | General Introduction to the course.                                        | [Introduction to TouchDesigner framework]({{site.baseurl}}/tutorials/td_intro/) |
 | Introduction to Media Architecture                                         | Class discussion - Precedent Research                                           |
 | [Project 0: Data-Driven Walkway]({{site.baseurl}}/assignments/project_00/) |                                                                                 |
@@ -43,20 +43,20 @@ title: Schedule
 - Download and install [Touchdesigner](https://www.derivative.ca/099/Downloads/) Due Aug 29
 - Sign up for the [Gallery]({{site.gallery}})
 - Project 0 - [Experiential Bridge]({{site.baseurl}}/assignments/project_00/) Due Sep 5
-- Sign up for Slack [using this invite link](https://join.slack.com/t/rsma2018/shared_invite/enQtNDIyNzA0MzM5MDczLTFiNDNjNzE5NWU1ZmU1NjgwZTFjOWUyMTRjYTMzOGFmNjM1N2FhMGZhNDM1OTRiMjQyMDA5MWJhN2U5YjM2ODE)  Due Aug 29
+- Sign up for Slack [using this invite link](https://join.slack.com/t/rsma2019/shared_invite/enQtNDIyNzA0MzM5MDczLTFiNDNjNzE5NWU1ZmU1NjgwZTFjOWUyMTRjYTMzOGFmNjM1N2FhMGZhNDM1OTRiMjQyMDA5MWJhN2U5YjM2ODE)  Due Aug 29
 
 ##### Assignments Due
 - ["Get To Know You" form](https://goo.gl/forms/rpmuKYmKeJptNUSb2) Due Aug 29
 - Download and install [Touchdesigner](https://www.derivative.ca/099/Downloads/) Due Aug 29
 - Precedent Research #1 [Precedent Research]({{site.baseurl}}/deliverables/precedent/) Due Aug 29
-- Sign up for Slack [using this invite link](https://join.slack.com/t/rsma2018/shared_invite/enQtNDIyNzA0MzM5MDczLTFiNDNjNzE5NWU1ZmU1NjgwZTFjOWUyMTRjYTMzOGFmNjM1N2FhMGZhNDM1OTRiMjQyMDA5MWJhN2U5YjM2ODE)  Due Aug 29
+- Sign up for Slack [using this invite link](https://join.slack.com/t/rsma2019/shared_invite/enQtNDIyNzA0MzM5MDczLTFiNDNjNzE5NWU1ZmU1NjgwZTFjOWUyMTRjYTMzOGFmNjM1N2FhMGZhNDM1OTRiMjQyMDA5MWJhN2U5YjM2ODE)  Due Aug 29
 
 <a name="week2"></a>
 
 ### Week 2: Sensing
 
 | Monday Sep 3 | Wednesday Sep 5                                                     |
-| :----------- | :------------------------------------------------------------------ |
+|:-------------|:--------------------------------------------------------------------|
 | No class!    | [Touchdesigner and Arduino]({{site.baseurl}}/tutorials/td_arduino/) |
 
 ##### Assignments Given
@@ -73,7 +73,7 @@ title: Schedule
 ### Week 3: Private Nature - Domestic Space
 
 | Monday Sep 10                                                                 | Wednesday Sep 12                                                                       |
-| :---------------------------------------------------------------------------- | :------------------------------------------------------------------------------------- |
+|:------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------|
 | Intro to [Project 1]({{site/baseurl}}/assignments/project_01/)                | Work day [Project 1]({{site/baseurl}}/assignments/project_01/)                         |
 | [Precedent Review - Vocabulary]({{site/baseurl}}/exercises/precedent_review/) | [TouchDesigner + Projection Mapping]({{site.baseurl}}/tutorials/td_projectionMapping/) |
 
@@ -93,7 +93,7 @@ title: Schedule
 ### Week 4: Private Nature - Domestic Space
 
 | Monday Sep 17                                                  | Wednesday Sep 19                                               |
-| :------------------------------------------------------------- | :------------------------------------------------------------- |
+|:---------------------------------------------------------------|:---------------------------------------------------------------|
 | Work day [Project 1]({{site/baseurl}}/assignments/project_01/) | Work day [Project 1]({{site/baseurl}}/assignments/project_01/) |
 | Precedent #2 Review                                            |                                                                |
 
@@ -116,11 +116,11 @@ title: Schedule
 
 ### Week 5: Light in Public Spaces
 
-| Monday Sep 24         | Wednesday Sep 26                                                     |
-| :-------------------- | :------------------------------------------------------------------- |
-| Review Project 1      | [Touchdesigner and DMX lighting]({{site.baseurl}}/tutorials/td_dmx/) |
-| [Animation Excercise]({{site.baseurl}}/exercises/animation_game/) |                                  |
-| Intro to Project #3 |   |
+| Monday Sep 24                                                     | Wednesday Sep 26                                                     |
+|:------------------------------------------------------------------|:---------------------------------------------------------------------|
+| Review Project 1                                                  | [Touchdesigner and DMX lighting]({{site.baseurl}}/tutorials/td_dmx/) |
+| [Animation Excercise]({{site.baseurl}}/exercises/animation_game/) |                                                                      |
+| Intro to Project #3                                               |                                                                      |
 
 
 
@@ -141,7 +141,7 @@ title: Schedule
 ### Week 6: Light in Public Spaces
 
 | Monday Oct 1                                                   | Wednesday Oct 3                                                |
-| :------------------------------------------------------------- | :------------------------------------------------------------- |
+|:---------------------------------------------------------------|:---------------------------------------------------------------|
 | Work day [Project 2]({{site/baseurl}}/assignments/project_02/) | Work day [Project 2]({{site/baseurl}}/assignments/project_02/) |
 | Precedent 03 Review                                            |                                                                |
 
@@ -162,7 +162,7 @@ title: Schedule
 ### Week 7: Low Resolution Data Visualization
 
 | Monday Oct 8                                                   | Wednesday Oct 10                                                         |
-| :------------------------------------------------------------- | :----------------------------------------------------------------------- |
+|:---------------------------------------------------------------|:-------------------------------------------------------------------------|
 | Review Project 2                                               | [Touchdesigner and Data Acquisition]({{site.baseurl}}/tutorials/td_api/) |
 | Intro to [Project 3]({{site.baseurl}}/assignments/project_03/) |                                                                          |
 
@@ -180,9 +180,9 @@ title: Schedule
 ### Week 8: Low Resolution Data Visualization
 
 | Monday Oct 15                                                  | Wednesday Oct 17                                                         |
-| :------------------------------------------------------------- | :----------------------------------------------------------------------- |
-|   Intro to [Project 3]({{site.baseurl}}/assignments/project_03/)                                         | [Touchdesigner and Data Acquisition]({{site.baseurl}}/tutorials/td_api/) |
-| |                                                                          |
+|:---------------------------------------------------------------|:-------------------------------------------------------------------------|
+| Intro to [Project 3]({{site.baseurl}}/assignments/project_03/) | [Touchdesigner and Data Acquisition]({{site.baseurl}}/tutorials/td_api/) |
+|                                                                |                                                                          |
 
 
 ##### Assignments Given
@@ -198,7 +198,7 @@ title: Schedule
 
 
 | Monday Oct 22                                                  | Wednesday Oct 24                                               |
-| :------------------------------------------------------------- | :------------------------------------------------------------- |
+|:---------------------------------------------------------------|:---------------------------------------------------------------|
 | Work Day [Project 3]({{site.baseurl}}/assignments/project_03/) | Work Day [Project 3]({{site.baseurl}}/assignments/project_03/) |
 | Precedent #4 Review                                            |                                                                |
 
@@ -217,10 +217,10 @@ title: Schedule
 ### Week 9: 
 
 
-| Monday Oct 22                                                                     | Wednesday Oct 24                                                |
-| :-------------------------------------------------------------------------------- | :-------------------------------------------------------------- |
-| Project 3 Review                                                                  |  |
-|  |                                                                 |
+| Monday Oct 22    | Wednesday Oct 24 |
+|:-----------------|:-----------------|
+| Project 3 Review |                  |
+|                  |                  |
 
 ##### Assignments Given
 - [Project 4]({{site.baseurl}}/assignments/project_04/) - Meditative Space - Due Nov 5
@@ -235,10 +235,10 @@ title: Schedule
 ### Week 10: 
 
 
-| Monday Oct 29                                                  | Wednesday Oct 31                                               |
-| :------------------- | :------------------------------- |
-|   | |
-|  |                                                                |
+| Monday Oct 29 | Wednesday Oct 31 |
+|:--------------|:-----------------|
+|               |                  |
+|               |                  |
 
 
 ##### Assignments Due
@@ -253,10 +253,10 @@ title: Schedule
 ### Week 11: 
 
 
-| Monday Nov 5                                                          | Wednesday Nov 7               |
-| :-------------------------------------------------------------------- | :---------------------------- |
-|                                                      | **SITE VISIT** Final Project One-Liners Due |
-| Intro to [Final Project]({{site.baseurl}}/assignments/final_project/) |       Site Visit 3577 Bigelow Blvd                        |
+| Monday Nov 5                                                          | Wednesday Nov 7                             |
+|:----------------------------------------------------------------------|:--------------------------------------------|
+|                                                                       | **SITE VISIT** Final Project One-Liners Due |
+| Intro to [Final Project]({{site.baseurl}}/assignments/final_project/) | Site Visit 3577 Bigelow Blvd                |
 
 ##### Assignments Due
 - Final Project One-Liner Google Slides
@@ -273,9 +273,9 @@ title: Schedule
 ### Week 12: 
 
 
-| Monday Nov 12                | Wednesday Nov 14 |
-| :--------------------------- | :--------------- |
-| Review Precedent Research #4 | [Final Project - Design Presentation]({{site.baseurl}}/assignments/final_project/)                 |
+| Monday Nov 12                | Wednesday Nov 14                                                                   |
+|:-----------------------------|:-----------------------------------------------------------------------------------|
+| Review Precedent Research #4 | [Final Project - Design Presentation]({{site.baseurl}}/assignments/final_project/) |
 
 
 ##### Assignments Due
@@ -294,9 +294,9 @@ title: Schedule
 ### Week 13: 
 
 
-| Monday Nov 19 | Wednesday Nov 21 |
-| :------------ | :--------------- |
-| [Touchdesigner and Sound]({{site.baseurl}}/tutorials/td_sound/)              | Final Project Work                 |
+| Monday Nov 19                                                   | Wednesday Nov 21   |
+|:----------------------------------------------------------------|:-------------------|
+| [Touchdesigner and Sound]({{site.baseurl}}/tutorials/td_sound/) | Final Project Work |
 
 ##### Assignments Due
 
@@ -312,9 +312,9 @@ title: Schedule
 ### Week 14:
 
 
-| Monday Nov 26 | Wednesday Nov 28 |
-| :------------ | :--------------- |
-| Final Project Work              | Final Project Work                 |
+| Monday Nov 26      | Wednesday Nov 28   |
+|:-------------------|:-------------------|
+| Final Project Work | Final Project Work |
 
 
 ##### Assignments Due
@@ -332,9 +332,9 @@ title: Schedule
 ### Week 15: 
 
 
-| Monday Dec 3 | Wednesday Dec 5 |
-| :----------- | :-------------- |
-| Final Project Work              | Final Project Work                 |
+| Monday Dec 3       | Wednesday Dec 5    |
+|:-------------------|:-------------------|
+| Final Project Work | Final Project Work |
 
 
 
@@ -343,9 +343,9 @@ title: Schedule
 <a name="week16"></a>
 
 ### Week 16: Final Showcase
-| Monday Dec 10          | Friday Dec 14 |
-| :--------------------- | :--------------- |
-| Final Project Showcase + Party |    Final Project Documentation              |
+| Monday Dec 10                  | Friday Dec 14               |
+|:-------------------------------|:----------------------------|
+| Final Project Showcase + Party | Final Project Documentation |
 
 
 

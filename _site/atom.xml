@@ -4,7 +4,7 @@
  <title>Reactive Spaces and Media Architecture</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-07-16T09:09:57-04:00</updated>
+ <updated>2019-07-16T09:09:57-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Jakob Marsico</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Grading, Feedback and Policies</title>
-   <link href="http://localhost:4000/2018/07/12/grading/"/>
-   <updated>2018-07-12T00:00:00-04:00</updated>
-   <id>http://localhost:4000/2018/07/12/grading</id>
+   <link href="http://localhost:4000/2019/07/12/grading/"/>
+   <updated>2019-07-12T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2019/07/12/grading</id>
    <content type="html">&lt;p class=&quot;message&quot;&gt;
 	tl;dr: Do interesting work and you'll be fine. Make sure it's submitted on time. Grading and feedback is focused on creative projects. There will be some opportunities for extra credit.
 &lt;/p&gt;
@@ -50,10 +50,10 @@
 
 &lt;ul&gt;
   &lt;li&gt;10% - &lt;a href=&quot;#participation&quot;&gt;Attendance &amp;amp; Participation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;10% - 5 x &lt;a href=&quot;/rsma2018/deliverables/discoveries/#grading&quot;&gt;Discoveries&lt;/a&gt; (2% per discovery)&lt;/li&gt;
-  &lt;li&gt;20% - &lt;a href=&quot;/rsma2018/deliverables/reading-reflections/#grading&quot;&gt;Readings, Summaries and Reflections&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;20% - Weekly &lt;a href=&quot;/rsma2018/deliverables/creative-projects/#grading&quot;&gt;Creative Projects&lt;/a&gt; (4 x 5%)&lt;/li&gt;
-  &lt;li&gt;40% - &lt;a href=&quot;/rsma2018/deliverables/final-project/#grading&quot;&gt;Final Project&lt;/a&gt; incl. &lt;a href=&quot;/rsma2018/deliverables/presentation-of-outcomes/#grading&quot;&gt;presentation and demonstration&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;10% - 5 x &lt;a href=&quot;/rsma2019/deliverables/discoveries/#grading&quot;&gt;Discoveries&lt;/a&gt; (2% per discovery)&lt;/li&gt;
+  &lt;li&gt;20% - &lt;a href=&quot;/rsma2019/deliverables/reading-reflections/#grading&quot;&gt;Readings, Summaries and Reflections&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;20% - Weekly &lt;a href=&quot;/rsma2019/deliverables/creative-projects/#grading&quot;&gt;Creative Projects&lt;/a&gt; (4 x 5%)&lt;/li&gt;
+  &lt;li&gt;40% - &lt;a href=&quot;/rsma2019/deliverables/final-project/#grading&quot;&gt;Final Project&lt;/a&gt; incl. &lt;a href=&quot;/rsma2019/deliverables/presentation-of-outcomes/#grading&quot;&gt;presentation and demonstration&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Note: this is subject to change. Follow the links to find out specific information on each graded component with the exception of participation which is discussed below.&lt;/p&gt;
@@ -146,11 +146,11 @@
  
  <entry>
    <title>Full Syllabus</title>
-   <link href="http://localhost:4000/2018/07/12/full-syllabus/"/>
-   <updated>2018-07-12T00:00:00-04:00</updated>
-   <id>http://localhost:4000/2018/07/12/full-syllabus</id>
+   <link href="http://localhost:4000/2019/07/12/full-syllabus/"/>
+   <updated>2019-07-12T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2019/07/12/full-syllabus</id>
    <content type="html">&lt;p class=&quot;message&quot;&gt;
-	tl;dr: Reactive Spaces and Media Architecture, Spring 2018, Carnegie Mellon University
+	tl;dr: Reactive Spaces and Media Architecture, Spring 2019, Carnegie Mellon University
 &lt;/p&gt;
 
 &lt;table&gt;
@@ -297,7 +297,7 @@
 
 &lt;p&gt;This course will assign a mixture of independent and group based projects. For independent projects, all work submitted must represent a distinct product by that individual and may not be produced in partnership with any peer within the class. Group projects allow for collaboration but expect that all members contribute to the final work equally. Work submitted for assessment in one class may not be submitted in full or in part for assessment in a second class.&lt;/p&gt;
 
-&lt;p&gt;For more information, on grading, and for details on grading policies, please consult the &lt;a href=&quot;/rsma2018/2017/01/02/grading/&quot;&gt;Grading, Feedback and Policies&lt;/a&gt; page.&lt;/p&gt;
+&lt;p&gt;For more information, on grading, and for details on grading policies, please consult the &lt;a href=&quot;/rsma2019/2017/01/02/grading/&quot;&gt;Grading, Feedback and Policies&lt;/a&gt; page.&lt;/p&gt;
 
 &lt;h2 id=&quot;process-documentation&quot;&gt;Process Documentation&lt;/h2&gt;
 
@@ -349,9 +349,9 @@
  
  <entry>
    <title>Absenses and Attendance.</title>
-   <link href="http://localhost:4000/2018/07/12/attendance/"/>
-   <updated>2018-07-12T00:00:00-04:00</updated>
-   <id>http://localhost:4000/2018/07/12/attendance</id>
+   <link href="http://localhost:4000/2019/07/12/attendance/"/>
+   <updated>2019-07-12T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2019/07/12/attendance</id>
    <content type="html">&lt;p class=&quot;message&quot;&gt;
 	tl;dr: It's a course that relies on peer-learning. That means you being in class is really important. Being absent will effect your grade. 
 &lt;/p&gt;

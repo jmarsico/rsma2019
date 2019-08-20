@@ -13,7 +13,7 @@ Suggest additions by email or on slack
 - [Ideate Lending](https://resources.ideate.cmu.edu/lending/)
 - [Consumables Price List](https://resources.ideate.cmu.edu/lending/price-list/)
 - [PhysComp Inventory](https://resources.ideate.cmu.edu/spaces/physical-computing/inventory/)
-- [PhysComp Lab Calendar](https://resources.ideate.cmu.edu/reservations/week.php?year=2018&month=8&day=27&area=6)
+- [PhysComp Lab Calendar](https://resources.ideate.cmu.edu/reservations/week.php?year=2019&month=8&day=27&area=6)
 
 #### TouchDesigner Documentation
 

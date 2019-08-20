@@ -3,10 +3,10 @@
   <channel>
     <title>Reactive Spaces and Media Architecture</title>
     <description>Project-based course for exploring large scale dynamic media in the built environment.</description>
-    <link>http://localhost:4000/rsma2018/</link>
-    <atom:link href="http://localhost:4000/rsma2018/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 16 Jul 2018 09:09:57 -0400</pubDate>
-    <lastBuildDate>Mon, 16 Jul 2018 09:09:57 -0400</lastBuildDate>
+    <link>http://localhost:4000/rsma2019/</link>
+    <atom:link href="http://localhost:4000/rsma2019/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 16 Jul 2019 09:09:57 -0400</pubDate>
+    <lastBuildDate>Mon, 16 Jul 2019 09:09:57 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -44,10 +44,10 @@
 
 &lt;ul&gt;
   &lt;li&gt;10% - &lt;a href=&quot;#participation&quot;&gt;Attendance &amp;amp; Participation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;10% - 5 x &lt;a href=&quot;/rsma2018/deliverables/discoveries/#grading&quot;&gt;Discoveries&lt;/a&gt; (2% per discovery)&lt;/li&gt;
-  &lt;li&gt;20% - &lt;a href=&quot;/rsma2018/deliverables/reading-reflections/#grading&quot;&gt;Readings, Summaries and Reflections&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;20% - Weekly &lt;a href=&quot;/rsma2018/deliverables/creative-projects/#grading&quot;&gt;Creative Projects&lt;/a&gt; (4 x 5%)&lt;/li&gt;
-  &lt;li&gt;40% - &lt;a href=&quot;/rsma2018/deliverables/final-project/#grading&quot;&gt;Final Project&lt;/a&gt; incl. &lt;a href=&quot;/rsma2018/deliverables/presentation-of-outcomes/#grading&quot;&gt;presentation and demonstration&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;10% - 5 x &lt;a href=&quot;/rsma2019/deliverables/discoveries/#grading&quot;&gt;Discoveries&lt;/a&gt; (2% per discovery)&lt;/li&gt;
+  &lt;li&gt;20% - &lt;a href=&quot;/rsma2019/deliverables/reading-reflections/#grading&quot;&gt;Readings, Summaries and Reflections&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;20% - Weekly &lt;a href=&quot;/rsma2019/deliverables/creative-projects/#grading&quot;&gt;Creative Projects&lt;/a&gt; (4 x 5%)&lt;/li&gt;
+  &lt;li&gt;40% - &lt;a href=&quot;/rsma2019/deliverables/final-project/#grading&quot;&gt;Final Project&lt;/a&gt; incl. &lt;a href=&quot;/rsma2019/deliverables/presentation-of-outcomes/#grading&quot;&gt;presentation and demonstration&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Note: this is subject to change. Follow the links to find out specific information on each graded component with the exception of participation which is discussed below.&lt;/p&gt;
@@ -136,9 +136,9 @@
 
 &lt;p&gt;If you have questions about this or your coursework, please let me know.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 12 Jul 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/rsma2018/2018/07/12/grading/</link>
-        <guid isPermaLink="true">http://localhost:4000/rsma2018/2018/07/12/grading/</guid>
+        <pubDate>Thu, 12 Jul 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/rsma2019/2019/07/12/grading/</link>
+        <guid isPermaLink="true">http://localhost:4000/rsma2019/2019/07/12/grading/</guid>
         
         
       </item>
@@ -146,7 +146,7 @@
       <item>
         <title>Full Syllabus</title>
         <description>&lt;p class=&quot;message&quot;&gt;
-	tl;dr: Reactive Spaces and Media Architecture, Spring 2018, Carnegie Mellon University
+	tl;dr: Reactive Spaces and Media Architecture, Spring 2019, Carnegie Mellon University
 &lt;/p&gt;
 
 &lt;table&gt;
@@ -293,7 +293,7 @@
 
 &lt;p&gt;This course will assign a mixture of independent and group based projects. For independent projects, all work submitted must represent a distinct product by that individual and may not be produced in partnership with any peer within the class. Group projects allow for collaboration but expect that all members contribute to the final work equally. Work submitted for assessment in one class may not be submitted in full or in part for assessment in a second class.&lt;/p&gt;
 
-&lt;p&gt;For more information, on grading, and for details on grading policies, please consult the &lt;a href=&quot;/rsma2018/2017/01/02/grading/&quot;&gt;Grading, Feedback and Policies&lt;/a&gt; page.&lt;/p&gt;
+&lt;p&gt;For more information, on grading, and for details on grading policies, please consult the &lt;a href=&quot;/rsma2019/2017/01/02/grading/&quot;&gt;Grading, Feedback and Policies&lt;/a&gt; page.&lt;/p&gt;
 
 &lt;h2 id=&quot;process-documentation&quot;&gt;Process Documentation&lt;/h2&gt;
 
@@ -341,9 +341,9 @@
 
 &lt;p&gt;It is the responsibility of the student to verse themselves with these policies. All necessary and appropriate sanctions will be issued to all parties involved with plagiarizing any and all course work. Plagiarism and any other form of academic dishonesty that is in violation with these policies will not be tolerated.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 12 Jul 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/rsma2018/2018/07/12/full-syllabus/</link>
-        <guid isPermaLink="true">http://localhost:4000/rsma2018/2018/07/12/full-syllabus/</guid>
+        <pubDate>Thu, 12 Jul 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/rsma2019/2019/07/12/full-syllabus/</link>
+        <guid isPermaLink="true">http://localhost:4000/rsma2019/2019/07/12/full-syllabus/</guid>
         
         
       </item>
@@ -386,9 +386,9 @@
 &lt;p&gt;And if you’re asleep, you might as well not be in class. This counts as a partial absense (see above).&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 12 Jul 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/rsma2018/2018/07/12/attendance/</link>
-        <guid isPermaLink="true">http://localhost:4000/rsma2018/2018/07/12/attendance/</guid>
+        <pubDate>Thu, 12 Jul 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/rsma2019/2019/07/12/attendance/</link>
+        <guid isPermaLink="true">http://localhost:4000/rsma2019/2019/07/12/attendance/</guid>
         
         
       </item>
@@ -418,8 +418,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Thu, 07 Jan 2016 07:53:25 -0500</pubDate>
-        <link>http://localhost:4000/rsma2018/course/structure/2016/01/07/resource-fee/</link>
-        <guid isPermaLink="true">http://localhost:4000/rsma2018/course/structure/2016/01/07/resource-fee/</guid>
+        <link>http://localhost:4000/rsma2019/course/structure/2016/01/07/resource-fee/</link>
+        <guid isPermaLink="true">http://localhost:4000/rsma2019/course/structure/2016/01/07/resource-fee/</guid>
         
         
         <category>course</category>
