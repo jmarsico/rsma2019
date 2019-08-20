@@ -10,17 +10,17 @@ title: Schedule
 | 3 (Sep 9)        | __[Private Nature - Domestic Space](#week3)__                      | [Project 1 - Data Garden]({{site.baseurl}}/assignments/project_01/)        |
 | 4 (Sep 16)       | __[Private Nature - Domestic Space](#week4)__                      | [Project 1 - Data Garden]({{site.baseurl}}/assignments/project_01/)        |
 | 5 (Sep 23)       | __[Private Nature - Domestic Space](#week5)__                      | [Project 1 - Data Garden]({{site.baseurl}}/assignments/project_01/)        |
-| 5 (Sep 30)       | __[Light in Public Spaces](#week6)__                               | [Project 2 - Airport Light]({{site.baseurl}}/assignments/project_02/)      |
-| 6 (Oct 7)        | __[Light in Public Spaces](#week7)__                               | [Project 2 - Airport Light]({{site.baseurl}}/assignments/project_02/)      |
-| 6 (Oct 14)       | __[Light in Public Spaces](#week8)__                               | [Project 2 - Airport Light]({{site.baseurl}}/assignments/project_02/)      |
-| 7 (Oct 21)       | __[Low Resolution Data Visualization](#week9)__                    | [Project 3 - Power Usage]({{site.baseurl}}/assignments/project_03/)        |
-| 8 (Oct 28)       | __[Low Resolution Data Visualization](#week10)__                   | [Project 3 - Power Usage]({{site.baseurl}}/assignments/project_03/)        |
-| 8 (Nov 4)        | __[Low Resolution Data Visualization](#week11)__                   | [Project 3 - Power Usage]({{site.baseurl}}/assignments/project_03/)        |
-| 9 (Nov 11)       | __[Final Project](#week12)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)               |
-| 10 (Nov 18)      | __[Final Project](#week13)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)               |
-| 11 (Nov 25)      | __[Final Project](#week14)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)               |
-| 12 (Dec 2)       | __[Final Project](#week15)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)               |
-| 13 (Dec 9)       | __[Final Project](#week16)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)               |
+| 6 (Sep 30)       | __[Light in Public Spaces](#week6)__                               | [Project 2 - Airport Light]({{site.baseurl}}/assignments/project_02/)      |
+| 7 (Oct 7)        | __[Light in Public Spaces](#week7)__                               | [Project 2 - Airport Light]({{site.baseurl}}/assignments/project_02/)      |
+| 8 (Oct 14)       | __[Light in Public Spaces](#week8)__                               | [Project 2 - Airport Light]({{site.baseurl}}/assignments/project_02/)      |
+| 9 (Oct 21)       | __[Low Resolution Data Visualization](#week9)__                    | [Project 3 - Power Usage]({{site.baseurl}}/assignments/project_03/)        |
+| 10 (Oct 28)      | __[Low Resolution Data Visualization](#week10)__                   | [Project 3 - Power Usage]({{site.baseurl}}/assignments/project_03/)        |
+| 11 (Nov 4)       | __[Low Resolution Data Visualization](#week11)__                   | [Project 3 - Power Usage]({{site.baseurl}}/assignments/project_03/)        |
+| 12 (Nov 11)      | __[Final Project](#week12)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)               |
+| 13 (Nov 18)      | __[Final Project](#week13)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)               |
+| 14 (Nov 25)      | __[Final Project](#week14)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)               |
+| 15 (Dec 2)       | __[Final Project](#week15)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)               |
+| 16 (Dec 9)       | __[Final Project](#week16)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)               |
 
 
 
@@ -74,8 +74,8 @@ title: Schedule
 
 | Monday Sep 9                                                                  | Wednesday Sep 11                                                                       |
 |:------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------|
-| Intro to [Project 1]({{site/baseurl}}/assignments/project_01/)                | Work day [Project 1]({{site/baseurl}}/assignments/project_01/)                         |
-| [Precedent Review - Vocabulary]({{site/baseurl}}/exercises/precedent_review/) | [TouchDesigner + Projection Mapping]({{site.baseurl}}/tutorials/td_projectionMapping/) |
+| Intro to [Project 1]({{site/baseurl}}/assignments/project_01/)                | [TouchDesigner + Projection Mapping]({{site.baseurl}}/tutorials/td_projectionMapping/) |
+| [Precedent Review - Vocabulary]({{site/baseurl}}/exercises/precedent_review/) |                                                                                        |
 
 ##### Assignments Given
 - Precedent Research #2 Active Nature - ({{site/baseurl}}/deliverables/precedent/)  Due Sept 16
@@ -114,23 +114,23 @@ title: Schedule
 
 <a name="week5"></a>
 
-### Week 5: Light in Public Spaces
+### Week 5: Private Nature - Domestic Space
 
-| Monday Sep 23                                                     | Wednesday Sep 25                                                     |
-|:------------------------------------------------------------------|:---------------------------------------------------------------------|
-| Review Project 1                                                  | [Touchdesigner and DMX lighting]({{site.baseurl}}/tutorials/td_dmx/) |
-| [Animation Excercise]({{site.baseurl}}/exercises/animation_game/) |                                                                      |
-| Intro to Project #3                                               |                                                                      |
+| Monday Sep 23    | Wednesday Sep 25                                                     |
+|:-----------------|:---------------------------------------------------------------------|
+| Review Project 1 | [Touchdesigner and DMX lighting]({{site.baseurl}}/tutorials/td_dmx/) |
+|                  | [Animation Excercise]({{site.baseurl}}/exercises/animation_game/)    |
+|                  |                                                                      |
 
 
 
 ##### Assignments Given
-- [Project 2]({{site/baseurl}}/assignments/project_02/) - Pittsburgh International Airport - Due Oct 8
-- Precedent Research #3 - Color Palette [Precedent Research]({{site/baseurl}}/deliverables/precedent/)  Due Oct 1
+
+- Precedent Research #3 - Color Palette [Precedent Research]({{site/baseurl}}/deliverables/precedent/)  Due Sep 30
 
 
 ##### Assignments Due
-- [Project 1]({{site/baseurl}}/assignments/project_01/) - Data Garden Due Sept 24
+- [Project 1]({{site/baseurl}}/assignments/project_01/) - Data Garden Due Sept 23
 
 
 
@@ -140,18 +140,19 @@ title: Schedule
 
 ### Week 6: Light in Public Spaces
 
-| Monday Oct 1                                                   | Wednesday Oct 3                                                |
+| Monday Sep 30                                                  | Wednesday Oct 2                                                |
 |:---------------------------------------------------------------|:---------------------------------------------------------------|
-| Work day [Project 2]({{site/baseurl}}/assignments/project_02/) | Work day [Project 2]({{site/baseurl}}/assignments/project_02/) |
-| Precedent 03 Review                                            |                                                                |
+| Intro to [Project 2]({{site/baseurl}}/assignments/project_02/) | Work day [Project 2]({{site/baseurl}}/assignments/project_02/) |
+| Precedent  #3 review                                           |                                                                |
 
 
 ##### Assignments Given
+- [Project 2]({{site/baseurl}}/assignments/project_02/) - Pittsburgh International Airport - Due Oct 14
 
 
 
 ##### Assignments Due
-- Precedent Research #3 - [Precedent Research]({{site/baseurl}}/deliverables/precedent/)  Due Oct 1
+- Precedent Research #3 - [Precedent Research]({{site/baseurl}}/deliverables/precedent/)  Due Sep 30
 
 
 
@@ -159,17 +160,16 @@ title: Schedule
 
 <a name="week7"></a>
 
-### Week 7: Low Resolution Data Visualization
+### Week 7: Light in Public Spaces
 
-| Monday Oct 8                                                   | Wednesday Oct 10                                                         |
-|:---------------------------------------------------------------|:-------------------------------------------------------------------------|
-| Review Project 2                                               | [Touchdesigner and Data Acquisition]({{site.baseurl}}/tutorials/td_api/) |
-| Intro to [Project 3]({{site.baseurl}}/assignments/project_03/) |                                                                          |
+| Monday Oct 8                                                   | Wednesday Oct 10                                               |
+|:---------------------------------------------------------------|:---------------------------------------------------------------|
+| Work day [Project 2]({{site/baseurl}}/assignments/project_02/) | Work day [Project 2]({{site/baseurl}}/assignments/project_02/) |
+|                                                                |                                                                |
 
 
 ##### Assignments Given
-- [Project 3]({{site.baseurl}}/assignments/project_03/) - Data Visualization - Due Oct 22
-- Precedent Research #4 Peripheral Display - ({{site/baseurl}}/deliverables/precedent/) - Due Oct 15
+
 
 ##### Assignments Due
 - [Project 2]({{site/baseurl}}/assignments/project_02/) - Pittsburgh International Airport - Due Oct 8
@@ -177,16 +177,15 @@ title: Schedule
 
 <a name="week8"></a>
 
-### Week 8: Low Resolution Data Visualization
+### Week 8: Light in Public Spaces
 
-| Monday Oct 15                                                  | Wednesday Oct 17                                                         |
-|:---------------------------------------------------------------|:-------------------------------------------------------------------------|
-| Intro to [Project 3]({{site.baseurl}}/assignments/project_03/) | [Touchdesigner and Data Acquisition]({{site.baseurl}}/tutorials/td_api/) |
-|                                                                |                                                                          |
+| Monday Oct 14    | Wednesday Oct 17                                                         |
+|:-----------------|:-------------------------------------------------------------------------|
+| Project 2 Review | [Touchdesigner and Data Acquisition]({{site.baseurl}}/tutorials/td_api/) |
+|                  |                                                                          |
 
 
 ##### Assignments Given
-- [Project 3]({{site.baseurl}}/assignments/project_03/) - Data Visualization - Due Oct 22
 - Precedent Research #4 Peripheral Display - ({{site/baseurl}}/deliverables/precedent/) - Due Oct 15
 
 ##### Assignments Due
@@ -197,89 +196,74 @@ title: Schedule
 ### Week 9: Low Resolution Data Visualization
 
 
-| Monday Oct 22                                                  | Wednesday Oct 24                                               |
+| Monday Oct 21                                                  | Wednesday Oct 23                                               |
 |:---------------------------------------------------------------|:---------------------------------------------------------------|
-| Work Day [Project 3]({{site.baseurl}}/assignments/project_03/) | Work Day [Project 3]({{site.baseurl}}/assignments/project_03/) |
+| Intro to [Project 3]({{site.baseurl}}/assignments/project_03/) | Work Day [Project 3]({{site.baseurl}}/assignments/project_03/) |
 | Precedent #4 Review                                            |                                                                |
 
 
 ##### Assignments Due
-- Precedent Research #4 - ({{site/baseurl}}/deliverables/precedent/) - Due Oct 15
+- Precedent Research #4 Peripheral Display - ({{site/baseurl}}/deliverables/precedent/) - Due Oct 21
 
 
 ##### Assignments Given
+- [Project 3]({{site.baseurl}}/assignments/project_03/) - Data Visualization - Due Nov 4
 
 
-
-
-
-<a name="week9"></a>
-### Week 9: 
-
-
-| Monday Oct 22    | Wednesday Oct 24 |
-|:-----------------|:-----------------|
-| Project 3 Review |                  |
-|                  |                  |
-
-##### Assignments Given
-- [Project 4]({{site.baseurl}}/assignments/project_04/) - Meditative Space - Due Nov 5
-- Precedent Research #5 - ({{site/baseurl}}/deliverables/precedent/) - Due Oct 29
-  
-
-##### Assignments Due
-- [Project 3]({{site.baseurl}}/assignments/project_03/) - Power Usage - Due Oct 22
 
 <a name="week10"></a>
 
-### Week 10: 
+### Week 9: Low Resolution Data Visualization
 
 
-| Monday Oct 29 | Wednesday Oct 31 |
-|:--------------|:-----------------|
-|               |                  |
-|               |                  |
+| Monday Oct 28                                                  | Wednesday Oct 30                                               |
+|:---------------------------------------------------------------|:---------------------------------------------------------------|
+| Work Day [Project 3]({{site.baseurl}}/assignments/project_03/) | Work Day [Project 3]({{site.baseurl}}/assignments/project_03/) |
+|                                                                |                                                                |
 
+##### Assignments Given
+
+  
 
 ##### Assignments Due
 
-
-##### Assignments Given
 
 
 
 <a name="week11"></a>
 
-### Week 11: 
+### Week 11: Low Resolution Data Visualization
 
 
-| Monday Nov 5                                                          | Wednesday Nov 7                             |
-|:----------------------------------------------------------------------|:--------------------------------------------|
-|                                                                       | **SITE VISIT** Final Project One-Liners Due |
-| Intro to [Final Project]({{site.baseurl}}/assignments/final_project/) | Site Visit 3577 Bigelow Blvd                |
+| Monday Nov 4     | Wednesday Nov 6                                                       |
+|:-----------------|:----------------------------------------------------------------------|
+| Review Project 3 | Intro to [Final Project]({{site.baseurl}}/assignments/final_project/) |
+|                  | Site Visit 3577 Bigelow Blvd                                          |
+|                  | Review Project One-Liners                                             |
 
 ##### Assignments Due
-- Final Project One-Liner Google Slides
+- [Project 3]({{site.baseurl}}/assignments/project_03/) - Power Usage - Due Nov 4
+- Final Project One-Liner Google Slides - Due Nov 6
 
 
 ##### Assignments Given
-- Precedent Research #4 - ({{site/baseurl}}/deliverables/precedent/) - Due Nov 12
-- [Final Project - Design Presentation]({{site.baseurl}}/assignments/final_project/) - Due Nov 14
+- Precedent Research #5 - ({{site/baseurl}}/deliverables/precedent/) - Due Oct 29
+- Final Project One-Liner Google Slides - Due Nov 6
+- [Final Project - Design Presentation]({{site.baseurl}}/assignments/final_project/) - Due Nov 13
 
 
 
 <a name="week12"></a>
 
-### Week 12: 
+### Week 12: Final Project
 
 
-| Monday Nov 12                | Wednesday Nov 14                                                                   |
-|:-----------------------------|:-----------------------------------------------------------------------------------|
-| Review Precedent Research #4 | [Final Project - Design Presentation]({{site.baseurl}}/assignments/final_project/) |
+| Monday Nov 11                | Wednesday Nov 13 |
+|:-----------------------------|:-----------------|
+| Review Precedent Research #4 |                  |
 
 
 ##### Assignments Due
-- [Final Project - Design Presentation]({{site.baseurl}}/assignments/final_project/) - Due Nov 14
 
 
 ##### Assignments Given
@@ -294,12 +278,13 @@ title: Schedule
 ### Week 13: 
 
 
-| Monday Nov 19                                                   | Wednesday Nov 21   |
-|:----------------------------------------------------------------|:-------------------|
-| [Touchdesigner and Sound]({{site.baseurl}}/tutorials/td_sound/) | Final Project Work |
+| Monday Nov 18                                                                      | Wednesday Nov 20   |
+|:-----------------------------------------------------------------------------------|:-------------------|
+| [Final Project - Design Presentation]({{site.baseurl}}/assignments/final_project/) | Final Project Work |
 
 ##### Assignments Due
 
+- [Final Project - Design Presentation]({{site.baseurl}}/assignments/final_project/) - Due Nov 18
 
 
 ##### Assignments Given
@@ -309,16 +294,17 @@ title: Schedule
 
 
 <a name="week14"></a>
-### Week 14:
+
+### Week 14: Working Prototype
 
 
-| Monday Nov 26      | Wednesday Nov 28   |
-|:-------------------|:-------------------|
-| Final Project Work | Final Project Work |
+| Monday Nov 25                                                   | Wednesday Nov 27   |
+|:----------------------------------------------------------------|:-------------------|
+| [Touchdesigner and Sound]({{site.baseurl}}/tutorials/td_sound/) | Final Project Work |
 
 
 ##### Assignments Due
-- [Final Project - Working Prototype Demo]({{site.baseurl}}/assignments/final_project/) - Due Nov 28
+
 
 
 ##### Assignments Given
@@ -329,21 +315,21 @@ title: Schedule
 
 <a name="week15"></a>
 
-### Week 15: 
+### Week 15: Final Build Week
 
 
-| Monday Dec 3       | Wednesday Dec 5    |
+| Monday Dec 2       | Wednesday Dec 4    |
 |:-------------------|:-------------------|
 | Final Project Work | Final Project Work |
 
-
-
+##### Assignments Due
+- [Final Project - Working Prototype Demo]({{site.baseurl}}/assignments/final_project/) - Due Dec 2
 
 
 <a name="week16"></a>
 
 ### Week 16: Final Showcase
-| Monday Dec 10                  | Friday Dec 14               |
+| Monday Dec 9                   | Friday Dec 11               |
 |:-------------------------------|:----------------------------|
 | Final Project Showcase + Party | Final Project Documentation |
 
