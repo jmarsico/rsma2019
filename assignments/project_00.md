@@ -3,7 +3,7 @@ layout: subpage-detailed
 title: "Project 0: Experiential Bridge"
 ---
 
-#### Due: Wednesday September 5, 6:30pm before class. No late work.
+#### Due: Wednesday September 4, 6:30pm before class. No late work.
 
 #### Submit to: [RSMA 2019: Project 00](http://ideate.xsead.cmu.edu/gallery/pools/project-0-experiential-bridge)
 

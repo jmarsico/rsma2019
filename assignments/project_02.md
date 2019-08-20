@@ -8,7 +8,7 @@ src="{{site.baseurl}}/assets/airport_terminal.jpg"
 style="max-width: 600px;" 
 />
 
-#### Due: Monday October 8, 6:30pm before class. No late work.
+#### Due: Monday October 14, 6:30pm before class. No late work.
 
 #### Submit to: Groups submit one post to [RSMA 2019: Project 02](http://ideate.xsead.cmu.edu/gallery/pools/project-02-pit-light-installation/) and each student submits a link to that post on [Canvas Project 02](https://canvas.cmu.edu/courses/6049/assignments/100773), along with a few sentences describing their role and contributions in the group project.
 

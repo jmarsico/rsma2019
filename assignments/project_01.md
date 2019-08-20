@@ -5,7 +5,7 @@ title: "Project 1: Data Garden"
 
 <iframe src="https://player.vimeo.com/video/115082758?color=fffffff&title=0&byline=0&portrait=0" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-#### Due: Monday September 24, 6:30pm before class. No late work.
+#### Due: Monday September 23, 6:30pm before class. No late work.
 
 #### Submit to: Groups submit one post to [RSMA 2019: Project 01](http://ideate.xsead.cmu.edu/gallery/pools/projec-01-data-garden) and each student submits a link to that post on [Canvas Project 01](https://canvas.cmu.edu/courses/6049/assignments/100772), along with a few sentences describing their role and contributions in the group project.
 
