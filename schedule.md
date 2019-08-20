@@ -329,6 +329,8 @@ title: Schedule
 <a name="week16"></a>
 
 ### Week 16: Final Showcase
+
+
 | Monday Dec 9                   | Friday Dec 11               |
 |:-------------------------------|:----------------------------|
 | Final Project Showcase + Party | Final Project Documentation |
