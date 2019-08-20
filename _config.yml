@@ -5,7 +5,7 @@ gems: [jekyll-paginate]
 markdown: kramdown
 highlighter: rouge
 redcarpet:
-  extensions: ["strikethrough"]
+  extensions: ['strikethrough']
 
 kramdown:
   input: GFM
@@ -16,20 +16,20 @@ relative_permalinks: false
 
 # Setup
 title: Reactive Spaces and Media Architecture
-tagline: "CMU - Fall 2018"
-description: "Project-based course for exploring large scale dynamic media in the built environment."
---url: "http://jmarsico.github.io/rsma2018"
---baseurl: "http://jmarsico.github.io/rsma2018"
-baseurl: "/rsma2018"
+tagline: 'CMU - Fall 2019'
+description: 'Project-based course for exploring large scale dynamic media in the built environment.'
+--url: 'http://jmarsico.github.io/rsma2019'
+--baseurl: 'http://jmarsico.github.io/rsma2019'
+baseurl: '/rsma2019'
 
 author:
-  name: "Jakob Marsico"
-  url: http://jmarsico.github.io/rsma2018/
+  name: 'Jakob Marsico'
+  url: http://jmarsico.github.io/rsma2019/
 
 email: jmarsico@gmail.com
 twitter_username: n/a
 github_username: jmarsico
-slack: http://rsma2018.slack.com
+slack: http://rsma2019.slack.com
 gallery: http://ideate.xsead.cmu.edu
 facilities: https://resources.ideate.cmu.edu/
 
@@ -39,4 +39,4 @@ paginate: 5
 version: 1.0.5
 
 github:
-  repo: https://github.com/jmarsico/rsma2018
+  repo: https://github.com/jmarsico/rsma2019

@@ -4,7 +4,7 @@ title: About
 ---
 
 <br>**Reactive Spaces and Media Architecture** <br/>
-Fall 2018, Carnegie Mellon University
+Fall 2019, Carnegie Mellon University
 
 <table>
   <tr>
@@ -29,7 +29,7 @@ Fall 2018, Carnegie Mellon University
 
   <tr>
     <td>Teaching Assistant</td>
-    <td><a href="mailto:tmustako@andrew.cmu.edu ">Tatyana Mustakos</a></td>
+    <td><a href="mailto:ceckrich@andrew.cmu.edu  ">Christoph Eckrich</a></td>
   </tr>
   <tr>
     <td>Office Hours:</td>
@@ -41,7 +41,7 @@ Fall 2018, Carnegie Mellon University
     <td>
     </td>
     <td>
-    Mustakos: Tuesday, 11:00am - 12:00pm, Hunt A10.
+    Ekrich: TBD, Hunt A10.
     </td>
   </tr>
 </table>
