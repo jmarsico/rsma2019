@@ -55,9 +55,9 @@ title: Schedule
 
 ### Week 2: Sensing
 
-| <!--      | Monday Sep 2|Wednesday Sep 4|-->                                    |
-|:----------|:--------------------------------------------------------------------|
-| No class! | [Touchdesigner and Arduino]({{site.baseurl}}/tutorials/td_arduino/) |
+| Monday Sep 2 | Wednesday Sep 4                                                     |
+|:-------------|:--------------------------------------------------------------------|
+| No class!    | [Touchdesigner and Arduino]({{site.baseurl}}/tutorials/td_arduino/) |
 
 ##### Assignments Given
 
@@ -78,7 +78,7 @@ title: Schedule
 | [Precedent Review - Vocabulary]({{site/baseurl}}/exercises/precedent_review/) |                                                                                        |
 
 ##### Assignments Given
-- Precedent Research #2 Active Nature - ({{site/baseurl}}/deliverables/precedent/)  Due Sept 16
+- Precedent Research #2 Active Nature - [Precedent Research]({{site/baseurl}}/deliverables/precedent/)  Due Sept 16
 - Project 1 - [Data Garden]({{site.baseurl}}/assignments/project_01/) Due Sep 23
 - Material Study - Bring a novel material or surface for projection. Due Sep 11
 
@@ -186,7 +186,7 @@ title: Schedule
 
 
 ##### Assignments Given
-- Precedent Research #4 Peripheral Display - ({{site/baseurl}}/deliverables/precedent/) - Due Oct 15
+- Precedent Research #4 Peripheral Display - [Precedent Research]({{site/baseurl}}/deliverables/precedent/) - Due Oct 15
 
 ##### Assignments Due
 - [Project 2]({{site/baseurl}}/assignments/project_02/) - Pittsburgh International Airport - Due Oct 8
@@ -203,7 +203,7 @@ title: Schedule
 
 
 ##### Assignments Due
-- Precedent Research #4 Peripheral Display - ({{site/baseurl}}/deliverables/precedent/) - Due Oct 21
+- Precedent Research #4 Peripheral Display - [Precedent Research]({{site/baseurl}}/deliverables/precedent/) - Due Oct 21
 
 
 ##### Assignments Given
@@ -247,7 +247,7 @@ title: Schedule
 
 
 ##### Assignments Given
-- Precedent Research #5 - ({{site/baseurl}}/deliverables/precedent/) - Due Oct 29
+- Precedent Research #5 - ({{site/baseurl}}/deliverables/precedent/) - Due Nov 11
 - Final Project One-Liner Google Slides - Due Nov 6
 - [Final Project - Design Presentation]({{site.baseurl}}/assignments/final_project/) - Due Nov 13
 
@@ -260,7 +260,7 @@ title: Schedule
 
 | Monday Nov 11                | Wednesday Nov 13 |
 |:-----------------------------|:-----------------|
-| Review Precedent Research #4 |                  |
+| Review Precedent Research #5 |                  |
 
 
 ##### Assignments Due
