@@ -5,22 +5,22 @@ title: Schedule
 
 | Week (Beginning) | Summary                                                            | Assignments                                                                |
 |:-----------------|:-------------------------------------------------------------------|:---------------------------------------------------------------------------|
-| 1 (Aug 27)       | __[Introduction to Media Architecture and TouchDesigner](#week1)__ | [Project 0: Experiential Bridge]({{site.baseurl}}/assignments/project_00/) |
-| 2 (Sep 3)        | __[Introduction to Media Architecture and TouchDesigner](#week2)__ | [Project 0: Experiential Bridge]({{site.baseurl}}/assignments/project_00/) |
-| 3 (Sep 10)       | __[Private Nature - Domestic Space](#week3)__                      | [Project 1 - Data Garden]({{site.baseurl}}/assignments/project_01/)        |
-| 4 (Sep 17)       | __[Private Nature - Domestic Space](#week4)__                      | [Project 1 - Data Garden]({{site.baseurl}}/assignments/project_01/)        |
-| 5 (Sep 21)       | __[Light in Public Spaces](#week5)__                               | [Project 2 - Airport Light]({{site.baseurl}}/assignments/project_02/)      |
-| 6 (Sep 28)       | __[Light in Public Spaces](#week6)__                               | [Project 2 - Airport Light]({{site.baseurl}}/assignments/project_02/)      |
-| 7 (Oct 8)        | __[Low Resolution Data Visualization](#week7)__                    | [Project 3 - Power Usage]({{site.baseurl}}/assignments/project_03/)        |
-| 8 (Oct 15)       | __[Low Resolution Data Visualization](#week8)__                    | [Project 3 - Power Usage]({{site.baseurl}}/assignments/project_03/)        |
-| 9 (Oct 22)       | __[Meditative and Sacred Spaces](#week9)__                         | [Project 4 - Meditative Space]({{site.baseurl}}/assignments/project_04/)   |
-| 10 (Oct 29)      | __[Meditative and Sacred Spaces](#week10)__                        | [Project 4 - Meditative Space]({{site.baseurl}}/assignments/project_04/)   |
-| 11 (Nov 5)       | __[Final Project](#week11)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)               |
-| 12 (Nov 12)      | __[Final Project](#week12)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)               |
-| 13 (Nov 19)      | __[Final Project](#week13)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)               |
-| 14 (Nov 26)      | __[Final Project](#week14)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)               |
-| 15 (Dec 3)       | __[Final Project](#week15)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)               |
-| 16 (Dec 10)      | __[Final Project](#week16)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)               |
+| 1 (Aug 26)       | __[Introduction to Media Architecture and TouchDesigner](#week1)__ | [Project 0: Experiential Bridge]({{site.baseurl}}/assignments/project_00/) |
+| 2 (Sep 2)        | __[Introduction to Media Architecture and TouchDesigner](#week2)__ | [Project 0: Experiential Bridge]({{site.baseurl}}/assignments/project_00/) |
+| 3 (Sep 9)        | __[Private Nature - Domestic Space](#week3)__                      | [Project 1 - Data Garden]({{site.baseurl}}/assignments/project_01/)        |
+| 4 (Sep 16)       | __[Private Nature - Domestic Space](#week4)__                      | [Project 1 - Data Garden]({{site.baseurl}}/assignments/project_01/)        |
+| 5 (Sep 23)       | __[Private Nature - Domestic Space](#week5)__                      | [Project 1 - Data Garden]({{site.baseurl}}/assignments/project_01/)        |
+| 5 (Sep 30)       | __[Light in Public Spaces](#week6)__                               | [Project 2 - Airport Light]({{site.baseurl}}/assignments/project_02/)      |
+| 6 (Oct 7)        | __[Light in Public Spaces](#week7)__                               | [Project 2 - Airport Light]({{site.baseurl}}/assignments/project_02/)      |
+| 6 (Oct 14)       | __[Light in Public Spaces](#week8)__                               | [Project 2 - Airport Light]({{site.baseurl}}/assignments/project_02/)      |
+| 7 (Oct 21)       | __[Low Resolution Data Visualization](#week9)__                    | [Project 3 - Power Usage]({{site.baseurl}}/assignments/project_03/)        |
+| 8 (Oct 28)       | __[Low Resolution Data Visualization](#week10)__                   | [Project 3 - Power Usage]({{site.baseurl}}/assignments/project_03/)        |
+| 8 (Nov 4)        | __[Low Resolution Data Visualization](#week11)__                   | [Project 3 - Power Usage]({{site.baseurl}}/assignments/project_03/)        |
+| 9 (Nov 11)       | __[Final Project](#week12)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)               |
+| 10 (Nov 18)      | __[Final Project](#week13)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)               |
+| 11 (Nov 25)      | __[Final Project](#week14)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)               |
+| 12 (Dec 2)       | __[Final Project](#week15)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)               |
+| 13 (Dec 9)       | __[Final Project](#week16)__                                       | [Final Project]({{site.baseurl}}/assignments/final_project/)               |
 
 
 
@@ -30,7 +30,7 @@ title: Schedule
 
 ### Week 1: Introduction to Media Architecture
 
-| Monday Aug 27                                                              | Wednesday Aug 29                                                                |
+| Monday Aug 26                                                              | Wednesday Aug 28                                                                |
 |:---------------------------------------------------------------------------|:--------------------------------------------------------------------------------|
 | General Introduction to the course.                                        | [Introduction to TouchDesigner framework]({{site.baseurl}}/tutorials/td_intro/) |
 | Introduction to Media Architecture                                         | Class discussion - Precedent Research                                           |
@@ -38,32 +38,32 @@ title: Schedule
 
 ##### Assignments Given
 
-- Precedent Research #1 - [Precedent Research]({{site.baseurl}}/deliverables/precedent)  Due Aug 29
-- ["Get To Know You" form](https://goo.gl/forms/rpmuKYmKeJptNUSb2) Due Aug 29
-- Download and install [Touchdesigner](https://www.derivative.ca/099/Downloads/) Due Aug 29
+- Precedent Research #1 - [Precedent Research]({{site.baseurl}}/deliverables/precedent)  Due Aug 28
+- ["Get To Know You" form](https://forms.gle/qVUqzBaKYi3YkNT28) Due Aug 28
+- Download and install [Touchdesigner](https://www.derivative.ca/099/Downloads/) Due Aug 28
 - Sign up for the [Gallery]({{site.gallery}})
-- Project 0 - [Experiential Bridge]({{site.baseurl}}/assignments/project_00/) Due Sep 5
-- Sign up for Slack [using this invite link](https://join.slack.com/t/rsma2019/shared_invite/enQtNDIyNzA0MzM5MDczLTFiNDNjNzE5NWU1ZmU1NjgwZTFjOWUyMTRjYTMzOGFmNjM1N2FhMGZhNDM1OTRiMjQyMDA5MWJhN2U5YjM2ODE)  Due Aug 29
+- Project 0 - [Experiential Bridge]({{site.baseurl}}/assignments/project_00/) Due Sep 4
+- Sign up for Slack [using this invite link](https://join.slack.com/t/rsma2019/shared_invite/enQtNDIyNzA0MzM5MDczLTFiNDNjNzE5NWU1ZmU1NjgwZTFjOWUyMTRjYTMzOGFmNjM1N2FhMGZhNDM1OTRiMjQyMDA5MWJhN2U5YjM2ODE)  Due Aug 28
 
 ##### Assignments Due
-- ["Get To Know You" form](https://goo.gl/forms/rpmuKYmKeJptNUSb2) Due Aug 29
-- Download and install [Touchdesigner](https://www.derivative.ca/099/Downloads/) Due Aug 29
-- Precedent Research #1 [Precedent Research]({{site.baseurl}}/deliverables/precedent/) Due Aug 29
-- Sign up for Slack [using this invite link](https://join.slack.com/t/rsma2019/shared_invite/enQtNDIyNzA0MzM5MDczLTFiNDNjNzE5NWU1ZmU1NjgwZTFjOWUyMTRjYTMzOGFmNjM1N2FhMGZhNDM1OTRiMjQyMDA5MWJhN2U5YjM2ODE)  Due Aug 29
+- ["Get To Know You" form](https://forms.gle/qVUqzBaKYi3YkNT28) Due Aug 28
+- Download and install [Touchdesigner](https://www.derivative.ca/099/Downloads/) Due Aug 28
+- Precedent Research #1 [Precedent Research]({{site.baseurl}}/deliverables/precedent/) Due Aug 28
+- Sign up for Slack [using this invite link](https://join.slack.com/t/rsma2019/shared_invite/enQtNDIyNzA0MzM5MDczLTFiNDNjNzE5NWU1ZmU1NjgwZTFjOWUyMTRjYTMzOGFmNjM1N2FhMGZhNDM1OTRiMjQyMDA5MWJhN2U5YjM2ODE)  Due Aug 28
 
 <a name="week2"></a>
 
 ### Week 2: Sensing
 
-| Monday Sep 3 | Wednesday Sep 5                                                     |
-|:-------------|:--------------------------------------------------------------------|
-| No class!    | [Touchdesigner and Arduino]({{site.baseurl}}/tutorials/td_arduino/) |
+| <!--      | Monday Sep 2|Wednesday Sep 4|-->                                    |
+|:----------|:--------------------------------------------------------------------|
+| No class! | [Touchdesigner and Arduino]({{site.baseurl}}/tutorials/td_arduino/) |
 
 ##### Assignments Given
 
 
 ##### Assignments Due
-- Project 0 - [Experiential Bridge]({{site.baseurl}}/assignments/project_00/) Due Sep 5 
+- Project 0 - [Experiential Bridge]({{site.baseurl}}/assignments/project_00/) Due Sep 4 
 
 
 
@@ -72,18 +72,18 @@ title: Schedule
 
 ### Week 3: Private Nature - Domestic Space
 
-| Monday Sep 10                                                                 | Wednesday Sep 12                                                                       |
+| Monday Sep 9                                                                  | Wednesday Sep 11                                                                       |
 |:------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------|
 | Intro to [Project 1]({{site/baseurl}}/assignments/project_01/)                | Work day [Project 1]({{site/baseurl}}/assignments/project_01/)                         |
 | [Precedent Review - Vocabulary]({{site/baseurl}}/exercises/precedent_review/) | [TouchDesigner + Projection Mapping]({{site.baseurl}}/tutorials/td_projectionMapping/) |
 
 ##### Assignments Given
-- Precedent Research #2 Active Nature - ({{site/baseurl}}/deliverables/precedent/)  Due Sept 17
-- Project 1 - [Data Garden]({{site.baseurl}}/assignments/project_01/) Due Sep 24
-- Material Study - Bring a novel material or surface for projection. Due Sep 12
+- Precedent Research #2 Active Nature - ({{site/baseurl}}/deliverables/precedent/)  Due Sept 16
+- Project 1 - [Data Garden]({{site.baseurl}}/assignments/project_01/) Due Sep 23
+- Material Study - Bring a novel material or surface for projection. Due Sep 11
 
 ##### Assignments Due
-- Material Study - Bring a novel material or surface for projection. Due Sep 12
+- Material Study - Bring a novel material or surface for projection. Due Sep 11
 
 
 
@@ -92,7 +92,7 @@ title: Schedule
 
 ### Week 4: Private Nature - Domestic Space
 
-| Monday Sep 17                                                  | Wednesday Sep 19                                               |
+| Monday Sep 16                                                  | Wednesday Sep 18                                               |
 |:---------------------------------------------------------------|:---------------------------------------------------------------|
 | Work day [Project 1]({{site/baseurl}}/assignments/project_01/) | Work day [Project 1]({{site/baseurl}}/assignments/project_01/) |
 | Precedent #2 Review                                            |                                                                |
@@ -104,7 +104,7 @@ title: Schedule
 
 
 ##### Assignments Due
-- Precedent Research #2 - [Precedent Research]({{site/baseurl}}/deliverables/precedent/)  Due Sept 17
+- Precedent Research #2 - [Precedent Research]({{site/baseurl}}/deliverables/precedent/)  Due Sept 16
 
 
 
@@ -116,7 +116,7 @@ title: Schedule
 
 ### Week 5: Light in Public Spaces
 
-| Monday Sep 24                                                     | Wednesday Sep 26                                                     |
+| Monday Sep 23                                                     | Wednesday Sep 25                                                     |
 |:------------------------------------------------------------------|:---------------------------------------------------------------------|
 | Review Project 1                                                  | [Touchdesigner and DMX lighting]({{site.baseurl}}/tutorials/td_dmx/) |
 | [Animation Excercise]({{site.baseurl}}/exercises/animation_game/) |                                                                      |

@@ -32,7 +32,7 @@ title: Syllabus
   <tr>
     <td>Teaching Assistant</td>
     <td>
-    <a href="mailto:tmustako@andrew.cmu.edu">Tatyana Mustakos</a>
+    <a href="mailto:ceckrich@andrew.cmu.edu">Christoph Eckrich</a>
     </td>
   </tr>
   <tr>
@@ -40,7 +40,7 @@ title: Syllabus
     <td>
 		Marsico: Monday 7:50PM-9:00PM, Hunt A10
 		<br/>
-		Mustakos: Tuesday 11:00AM - 12:00PM, Hunt A10</td>
+		Ekrich: TBD, Hunt A10</td>
   </tr>
 </table>
 
