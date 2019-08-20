@@ -247,7 +247,7 @@ title: Schedule
 
 
 ##### Assignments Given
-- Precedent Research #5 - ({{site/baseurl}}/deliverables/precedent/) - Due Nov 11
+- Precedent Research #5 - [Precedent Research]({{site/baseurl}}/deliverables/precedent/) - Due Nov 11
 - Final Project One-Liner Google Slides - Due Nov 6
 - [Final Project - Design Presentation]({{site.baseurl}}/assignments/final_project/) - Due Nov 13
 
