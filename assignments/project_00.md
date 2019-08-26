@@ -5,7 +5,7 @@ title: "Project 0: Experiential Bridge"
 
 #### Due: Wednesday September 4, 6:30pm before class. No late work.
 
-#### Submit to: [RSMA 2019: Project 00](http://ideate.xsead.cmu.edu/gallery/pools/project-0-experiential-bridge)
+#### Submit to: [RSMA 2019: Project 00](http://ideate.xsead.cmu.edu/gallery/pools/00-data-driven-walkway)
 
 # Introduction
 
@@ -38,7 +38,7 @@ Google currently leases several floors in two adjacent buildings on either side 
 
 # Deliverables
 
-- Create a new project post in the [RSMA 2019: Project 00](http://ideate.xsead.cmu.edu/gallery/) pool. (REMINDER: Sign up for the gallery ASAP, as registration can sometime take more than two days)
+- Create a new project post in the [RSMA 2019: Project 00](http://ideate.xsead.cmu.edu/gallery/pools/00-data-driven-walkway) pool. (REMINDER: Sign up for the gallery ASAP, as registration can sometime take more than two days)
 - Your project post must include the following:
   - Drawing, sketch, photo collage, rendering... some visual representation of the installation.
   - [Data Flow Diagram](https://www.lucidchart.com/pages/data-flow-diagram) showing how the system works. Where does the data come from? How does it get used? Where are decision points? Where do visuals happen? What kind of "display" exists? Where to people fit into this?

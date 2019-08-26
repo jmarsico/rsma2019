@@ -43,7 +43,7 @@ title: Schedule
 - Download and install [Touchdesigner](https://www.derivative.ca/099/Downloads/) Due Aug 28
 - Sign up for the [Gallery]({{site.gallery}})
 - Project 0 - [Experiential Bridge]({{site.baseurl}}/assignments/project_00/) Due Sep 4
-- Sign up for Slack [using this invite link](https://join.slack.com/t/rsma2019/shared_invite/enQtNDIyNzA0MzM5MDczLTFiNDNjNzE5NWU1ZmU1NjgwZTFjOWUyMTRjYTMzOGFmNjM1N2FhMGZhNDM1OTRiMjQyMDA5MWJhN2U5YjM2ODE)  Due Aug 28
+- Sign up for Slack [using this invite link](https://join.slack.com/t/rsma2019/shared_invite/enQtNzMyNDYxNjM2Mjg4LWFjYzZjMGE5NTZhNGM3MWMyMDRkZGFjZDIxMmQwZmRhNjk1YzljOGI4YTQ2ZTZlMmZhMmRmMGY5YjA1OTNhMGU)  Due Aug 28
 
 ##### Assignments Due
 - ["Get To Know You" form](https://forms.gle/qVUqzBaKYi3YkNT28) Due Aug 28
