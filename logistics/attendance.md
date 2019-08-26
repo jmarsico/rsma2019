@@ -11,7 +11,7 @@ The structure of this course makes it critical for you to be in attendance. The 
 
 ## Attendance
 
-Plain and simple, you should be in every class. You shouldn't expect to receive a passing grade without regular attendance. More than three _unexcused_ absenses will result in a failing grade unless appropriate documentation is provided.
+Plain and simple, you should be in every class. You shouldn't expect to receive a passing grade without regular attendance. More than **3 _unexcused_ absenses will result in a failing grade unless appropriate documentation is provided.**
 
 There's a difference between _excused_ and _unexcused_ absenses. In most cases where you give some prompt or early notice, it's considered an excused absense.
 
