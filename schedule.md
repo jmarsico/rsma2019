@@ -76,6 +76,7 @@ title: Schedule
 |:------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------|
 | Intro to [Project 1]({{site/baseurl}}/assignments/project_01/)                | [TouchDesigner + Projection Mapping]({{site.baseurl}}/tutorials/td_projectionMapping/) |
 | [Precedent Review - Vocabulary]({{site/baseurl}}/exercises/precedent_review/) |                                                                                        |
+| Project 00 Review                                                             |                                                                                        |
 
 ##### Assignments Given
 - Precedent Research #2 Active Nature - [Precedent Research]({{site/baseurl}}/deliverables/precedent/)  Due Sept 16

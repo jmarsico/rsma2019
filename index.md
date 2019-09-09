@@ -41,7 +41,7 @@ Fall 2019, Carnegie Mellon University
     <td>
     </td>
     <td>
-    Ekrich: TBD, Hunt A10.
+    Ekrich: Wednesday, 7:50pm - 9:00pm, Hunt A10.
     </td>
   </tr>
 </table>

@@ -6,7 +6,7 @@ title: "Group Precedent Review - Language Extraction"
 > **tl;dr** We need to start developing a vocabulary to describe the work we'll be doing in this class. Look at precedent documentation to learn how other groups/studios/artists are talking about their work.
 
 
-# Group Share - 20 minutes
+# Group Share - 10 minutes
 Break up into groups of 5 people. Each person will present their precedent research from the previous week. Presenters should talk about the work in their own words, describing it as they see fit.
 
 # Vocabulary Extraction - 10 minutes
