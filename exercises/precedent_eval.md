@@ -6,11 +6,15 @@ title: "Group Precedent Review - Project Evaluation"
 > **tl;dr** We need to look at projects out in the world with a critical eye. Just .
 
 
-# Group Share - 10 minutes (2 minutes per project)
+# Group Share - 10 minutes 
+**(2 minutes per project)**
 Break up into groups of 5 people. Each person will present their precedent research from the previous week. Presenters should talk about the work in their own words, describing it as they see fit.
 
-# Project Eval - 20 minutes (4-5 minutes per project)
+# Project Eval - 20 minutes 
+**(4-5 minutes per project)**
 After each presentation, the group evaluates the project based on the below criteria. The person who presented the work should take notes on the group discussion as a bullet points in a reply to the original post on Slack.
+
+**Evaluation Questions**
 
 1. Who is the intended audience?
 
