@@ -3,7 +3,7 @@ layout: subpage
 title: "Group Precedent Review - Project Evaluation"
 ---
 
-> **tl;dr** We need to look at projects out in the world with a critical eye. Just .
+> **tl;dr** We need to look at projects out in the world with a critical eye. Just because a project looks cool in documentation, doesn't mean it was successful.
 
 
 # Group Share - 10 minutes 
