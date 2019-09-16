@@ -93,10 +93,10 @@ title: Schedule
 
 ### Week 4: Private Nature - Domestic Space
 
-| Monday Sep 16                                                  | Wednesday Sep 18                                               |
-|:---------------------------------------------------------------|:---------------------------------------------------------------|
-| Work day [Project 1]({{site/baseurl}}/assignments/project_01/) | Work day [Project 1]({{site/baseurl}}/assignments/project_01/) |
-| Precedent #2 Review                                            |                                                                |
+| Monday Sep 16                                                     | Wednesday Sep 18                                               |
+|:------------------------------------------------------------------|:---------------------------------------------------------------|
+| Work day [Project 1]({{site/baseurl}}/assignments/project_01/)    | Work day [Project 1]({{site/baseurl}}/assignments/project_01/) |
+| [Precedent #2 Review]({{site/baseurl}}/exercises/precedent_eval/) |                                                                |
 
 
 
