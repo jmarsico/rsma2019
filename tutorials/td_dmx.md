@@ -101,12 +101,13 @@ style="max-width: 600px;"
 />
 
 `active` - this turns the active sending of DMX on and off
-`universe` - this is the DMX universe that we want to use (more on this later)
-`width` - total width of input geometry
-`height` - total height of input geometry
-`camZoom`, `camTransX`, `camTransY` - move the preview camera around to see everything. these do not affect the LED mappings.
 
-The most important parameters here are `width` and `height`. For these, enter the total height and total width of geometry that you've imported.
+`universe` - this is the DMX universe that we want to use (more on this later)
+
+`scale`, `rotate`, `translate` - allow you to move your pixel points over your input video to get the correct mapping
+
+`smoothing` parameters - allows you to smooth the signal, so you don't get much of the jitters that come with video-LED processes
+
 
 
 ## Setting up the PixLite Controller
