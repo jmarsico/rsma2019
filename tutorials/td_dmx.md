@@ -4,9 +4,9 @@ title: "TouchDesigner, Pixelmapping + DMX"
 ---
 
 
-> Download the [td_pixelmapper.toe](https://drive.google.com/open?id=1Wnb-IWbTXGHitYjDsAZwrrNh6s8-pMrW) file from the [TouchDesigner Examples](https://drive.google.com/drive/folders/144ml7hfzFDR0Y7ZKa4WMo_aPQbVOkqTP?usp=sharing) folder on Google Drive. 
+> Download the [td_pixelmapper.toe](https://drive.google.com/open?id=1PDNd03Lveh3tGU16OVzG3D2YJm2LN2Jy) file from the [TouchDesigner Examples](https://drive.google.com/drive/folders/144ml7hfzFDR0Y7ZKa4WMo_aPQbVOkqTP?usp=sharing) folder on Google Drive. 
 
-> Download the [pixelMapper.tox](https://drive.google.com/open?id=1KJCrY-0_17tAk82lKiwXTHT0AgbnvB5c) component from the [TouchDesigner Examples](https://drive.google.com/drive/folders/144ml7hfzFDR0Y7ZKa4WMo_aPQbVOkqTP?usp=sharing) folder on Google Drive.
+> Download the [pixelMapper.tox](https://drive.google.com/open?id=10-uJ3IZZz_JKuM-N1mkqZUcuDgdRWwSP) component from the [TouchDesigner Examples](https://drive.google.com/drive/folders/144ml7hfzFDR0Y7ZKa4WMo_aPQbVOkqTP?usp=sharing) folder on Google Drive.
 
 > Download and install the Advatek Assistant Software for [macOS](https://itunes.apple.com/us/app/advatek-assistant/id990140692?ls=1&mt=12) or [Windows](https://www.advateklights.com/download/928/)
 

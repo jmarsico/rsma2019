@@ -24,14 +24,20 @@ After each presentation, the group evaluates the project based on the below crit
 
 3. Was the project successful?
 	a. how do you think it looked in real life (environmental realities, camera vs vision, etc)
+
 	b. do you think the intended audience understood or could experience completely?
 
 4. What doesn't work here?
+	
 	a. what do you think the documention isn't showing?
 
 5. What do you want to take from this project
+	
 	a. technique
+	
 	b. style
+	
 	c. conceptual approach
+	
 	d. etc
 
