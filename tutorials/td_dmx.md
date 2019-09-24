@@ -70,7 +70,7 @@ This tutorial will not cover step 1. For best results:
 3. Work in the XY plane. 
 4. I like to make (but not export) a bounding box of my polyline geometry to better understand the dimensions of my geometry (total width and height of geometry).
 
-Steps 3 and 4 are taken care of in the [pixelMapper.tox](https://drive.google.com/open?id=1KJCrY-0_17tAk82lKiwXTHT0AgbnvB5c).
+Steps 3 and 4 are taken care of in the [pixelMapper.tox](https://drive.google.com/open?id=10-uJ3IZZz_JKuM-N1mkqZUcuDgdRWwSP).
 
 
 ## Using the pixelMapper TOX Component
