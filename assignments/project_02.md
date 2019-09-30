@@ -43,3 +43,5 @@ Groups must create a working model of their design. The model can be of low fide
 - Photographs of the model with either:
   - A: A black backdrop
   - B: composited into a photograph of the airport atrium
+- Presentation and Working Demo in class on October 14th.
+  - You will have ONLY 10 MINUTES in class to prepare your demo.
