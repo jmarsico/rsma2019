@@ -4,11 +4,11 @@ title: "Pre-Project 03: Meditative Space"
 ---
 
 <img
-src="{{site.baseurl}}/assets/mit-chapel-eero-saarinen.jpg" 
+src="https://images.squarespace-cdn.com/content/v1/5cfd3effe02806000151e559/1566291421506-BTE3RV7CBQG0R0IDX74D/ke17ZwdGBToddI8pDm48kGwqNa-TSATgABi909OK27Z7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UQSxQa_pE67Ig1CszvlZo11NCLvqIlshiNC_JCcjnOmqOV4zqrbdg_2AqIEjj1Z3Fg/Our+Time-1-5.jpg?format=2500w" 
 style="max-width: 600px;" 
 />
 
-### [Touchdesigner Example](https://drive.google.com/open?id=1G34Va5oPHyrS7k6yk_gfEedsrWzdUwk_)
+### t[Touchdesigner Example](https://drive.google.com/open?id=1G34Va5oPHyrS7k6yk_gfEedsrWzdUwk_)
 
 ## Examples of Light and Sound in Spiritual Places
 - [UVA - Our Time](https://uva.co.uk/works/our-time)
