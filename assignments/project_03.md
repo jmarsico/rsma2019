@@ -41,8 +41,6 @@ Groups must create a working model of their design. The model can be of low fide
 
 - A basic video of the functioning model. Video must be take using a tripod and with a black or white backdrop (you can find one in the IDeATe hallway or the CFA photo studio).
 - Written explanation of the space. This is not a technical writeup. Describe how your media approach will aide in the user's practice or in the intended functionality of the space. Describe the goals of the space and/or intervention and how it might affect users.
-- Photographs of the model with either:
-  - A: A black backdrop
-  - B: composited into a photograph of the airport atrium
+- Photographs of the model
 - Presentation and Working Demo in class on November 6th.
   - You will have ONLY 10 MINUTES in class to prepare your demo.
