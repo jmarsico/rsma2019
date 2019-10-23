@@ -1,6 +1,6 @@
 ---
 layout: subpage-detailed
-title: "Project 3: Campus Power Usage"
+title: "Project 3: Meditative Space"
 ---
 
 
