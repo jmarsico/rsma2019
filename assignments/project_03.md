@@ -21,6 +21,12 @@ Each group will design and prototype a meditative space that uses coordinated so
 - A meditative or spiritual space within a workplace or academic campus
 - A private space dedicated to one's spiritual/mindfulness/religious practice
 
+# Design Considerations
+
+- Is there an existing natural sound that your piece can interact with or respond to?
+- Is there a specific, pre-existing ritual or mindfulness/meditation technique that you can focus on promoting? 
+- How are you choosing your sound palette? Are you using sounds that are familiar to the users of the space? Leveraging their nostalgia or memory?
+- Should the sound relate to the visual components? Which should be more in focus?
 
 # Design Requirements
 
