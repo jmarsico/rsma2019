@@ -11,12 +11,12 @@ Location: 3577 Bigelow Blvd
 
 - Monday Nov 18: Precedent Research - Industrial Spaces
 - Wednesday Nov 13: One-Liners Due in Class
-- Wednesday Nov 20: Design Presentation and Post (submit to [Gallery](http://ideate.xsead.cmu.edu/gallery/pools/final-project-design-presentation/) + [Canvas](https://canvas.cmu.edu/courses/6049/assignments/119220))
+- Wednesday Nov 20: Design Presentation and Post (submit to [Gallery](http://ideate.xsead.cmu.edu/gallery/pools/final-project-design-presentation-f8fdf292-dfee-4deb-9743-cd5de91172a4) + [Canvas](https://canvas.cmu.edu/courses/11945/assignments/180406))
 - Monday Dec 2: Prototype Presentation
 - December 7 - 8: Build Out
 - December 9: Final Presentation + Party 
 - December 9: Tear Down
-- December 11: Final Documentation Post (submit to [Gallery](http://ideate.xsead.cmu.edu/gallery/pools/final-project-final-documentation/) + [Canvas](https://canvas.cmu.edu/courses/6049/assignments/100775))
+- December 11: Final Documentation Post (submit to [Gallery](http://ideate.xsead.cmu.edu/gallery/pools/rsma-final-project) + [Canvas](https://canvas.cmu.edu/courses/11945/assignments/180405))
 
 
 # Introduction
