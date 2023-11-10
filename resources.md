@@ -56,6 +56,8 @@ Suggest additions by email or on slack
 
 - [Arduino Programming Cheat Sheet](https://cdn.sparkfun.com/assets/f/4/9/2/2/Arduino_Cheat_Sheet-11-12-13.pdf)
 
+- [Intro to Circuitry](https://www.speedwaymotors.com/Info/All-About-Electronic-Circuits-for-Kids)
+
 #### Inspiration
 
 - [Creative Applications Network](http://www.creativeapplications.net/)
